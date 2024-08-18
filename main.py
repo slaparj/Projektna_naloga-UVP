@@ -14,7 +14,7 @@ for i in range(2):
     print(naj_mange)
 
 
-for i in range(1):
-    url_mange = naj_mange[i]['link']
-    print(dodatne_lastnosti(url_mange))
+#for i in range(1):
+#    url_mange = naj_mange[i]['link']
+#   print(dodatne_lastnosti(url_mange))
     
