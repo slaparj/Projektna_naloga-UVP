@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
 import re
-from zajem2 import dodatne_lastnosti
 
 def izlusci(url):
     
