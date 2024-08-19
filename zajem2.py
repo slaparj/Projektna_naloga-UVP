@@ -36,7 +36,7 @@ def dodatne_lastnosti(url_mange):
         
     #Najdimo še, v kateri reviji je manga objavljena
     revija_najdba = juha_mange.find('span', class_='Serialization:')
-    revija = revija_najdba.text.strip() if revija_najdba else 'Nismo našli revije'
+    revija = revija_najdba.a.text.strip() if revija_najdba else 'Nismo našli revije'
         
     #Pridobljene podatke shranimo v slovar
     dodatni_podatki = {
