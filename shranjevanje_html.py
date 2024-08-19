@@ -1,6 +1,7 @@
 import os
 import requests
 
+
 direktorij = 'html_datoteke'
 
 if not os.path.exists(direktorij):
@@ -21,5 +22,3 @@ for i in range(20):
     # Save the HTML content to a file
     with open(dat_ime, 'w', encoding='utf-8') as file:
         file.write(html.text)
-
-    print(f'Saved: {dat_ime}')
