@@ -9,11 +9,11 @@ def dodatne_lastnosti(url_mange):
     
     #Poiščemo kako popularna je manga
     popularnost_najdba = juha_mange.find('span', class_='numbers popularity')
-    popularnost = int(''.join(re.findall(r'\d+', popularnost_najdba.text.strip()))) if popularnost_najdba else 'Popularity not found'
+    popularnost = int(''.join(re.findall(r'\d+', popularnost_najdba.text.strip()))) if popularnost_najdba else 'Nismo našli popularnosti'
     
     #Poiščemo v katere žanre pripada manga
     seznam_zanrov = []
-    zanri_naslov = juha_mange.find('span', string='Genres:') if juha_mange.find('span', string='Genres:') else juha_mange.find('span', string='Genre:') if juha_mange.find('span', string='Genre:') else 'Ne najdem žanrov'
+    #zanri_naslov = juha_mange.find('span', string='Genres:') if juha_mange.find('span', string='Genres:') else juha_mange.find('span', string='Genre:') if juha_mange.find('span', string='Genre:') else 'Ne najdem žanrov'
     
     if not juha_mange.find('span', string='Genres:') and not juha_mange.find('span', string='Genre:'):
         seznam_zanrov = ['Nismo našli informacij']
@@ -34,50 +34,19 @@ def dodatne_lastnosti(url_mange):
     if ',' in seznam_zanrov:  
         seznam_zanrov.remove(',') 
         
-    
-    #Enako za tematike (ker so tematike in žanri na tej spletni strani malo pomešani)
-    seznam_tematik = []
-        
-    if not juha_mange.find('span', string='Themes:') and not juha_mange.find('span', string='Theme:'):
-        seznam_tematik = ['Nismo našli informacij']
-    else:
-        if juha_mange.find('span', string='Themes:'):
-            tematike_naslov_naslov = juha_mange.find('span', string='Themes:')
-
-        else:
-            tematike_naslov_naslov = juha_mange.find('span', string='Theme:')
-        bratec = zanri_naslov.next_sibling
-        while bratec:
-            seznam_tematik.append(bratec.text.strip())
-            bratec = bratec.next_sibling
-        
-    seznam_tematik = list(dict.fromkeys(seznam_tematik))    
-    if '' in seznam_tematik:
-        seznam_tematik.remove('') 
-    if ',' in seznam_tematik:  
-        seznam_tematik.remove(',') 
-        
-        
-    #Poiščemo še opis mange
-    opisno_okno = juha_mange.find('span', itemprop='description')
-    if opisno_okno:
-        opis_vse = opisno_okno.text.strip().split('\n') 
-        i = 0
-        opis = ''
-        while i < len(opis_vse) and 'Written by' not in opis_vse[i]:
-            opis += opis_vse[i]
-            i += 1
-        opis = opis.replace('\r', '')
-    else:
-        opis = 'Description not found.'
-    
+    #Najdimo še, v kateri reviji je manga objavljena
+    revija_najdba = juha_mange.find('span', class_='Serialization:')
+    revija = revija_najdba.text.strip() if revija_najdba else 'Nismo našli revije'
         
     #Pridobljene podatke shranimo v slovar
     dodatni_podatki = {
         'popularnost': popularnost,
         'seznam_zanrov': seznam_zanrov,
-        'tematike': seznam_tematik,
-        'opis': opis
+        'revija': revija
     }
+
+    print(f'{popularnost}, {seznam_zanrov}, {revija}')
     
     return dodatni_podatki
+
+dodatne_lastnosti('https://myanimelist.net/manga/51/Slam_Dunk')
