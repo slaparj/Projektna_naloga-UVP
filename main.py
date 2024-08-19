@@ -1,4 +1,5 @@
 import zajem
+from shrani_v_csv import shrani_v_csv
 
 naj_mange = []
 
@@ -11,5 +12,5 @@ for i in range(1):
         url = f'https://myanimelist.net/topmanga.php?limit={i * 50}'
     naj_mange.extend(zajem.izlusci(url))
 
-print(naj_mange)
+shrani_v_csv(naj_mange)
     
