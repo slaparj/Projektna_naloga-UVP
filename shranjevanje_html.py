@@ -19,6 +19,5 @@ for i in range(30):
     
     dat_ime = os.path.join(direktorij, f'html_datoteka{i + 1}.html')
 
-    # Save the HTML content to a file
     with open(dat_ime, 'w', encoding='utf-8') as file:
         file.write(html.text)
