@@ -14,4 +14,4 @@ for i in range(2):
     naj_nekaj.extend(zajem.dodatno(url))
 
 print(naj_nekaj)
-shrani(naj_nekaj)
+shrani(naj_nekaj, 1)
