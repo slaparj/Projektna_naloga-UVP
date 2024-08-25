@@ -8,7 +8,7 @@ if not os.path.exists(direktorij):
     os.makedirs(direktorij)
 
 
-for i in range(20):
+for i in range(30):
     
     if i == 0:
         url = 'https://myanimelist.net/topmanga.php'
@@ -16,7 +16,7 @@ for i in range(20):
         url = f'https://myanimelist.net/topmanga.php?limit={i * 50}'
     
     html = requests.get(url)
-
+    
     dat_ime = os.path.join(direktorij, f'html_datoteka{i + 1}.html')
 
     # Save the HTML content to a file
