@@ -10,4 +10,5 @@ Analiziral bom podatke iz spletne strani MyAnimeList (https://myanimelist.net). 
 Najboljšim 100 mangam sem poiskal še dodatne podatke. To so 
 * **popularnost:** popularnost po vrsti, torej kako 'aktualna' je ta manga zdaj
 * **žanri:** horror, action... 
-* **serializacija:** revija v kateri je manga objavljena<br>
+* **serializacija:** revija v kateri je manga objavljena<br><br>
+Jaka Slapar
