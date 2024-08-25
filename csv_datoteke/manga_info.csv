@@ -100,17 +100,17 @@ rank,naslov,ocena,deli
 99,Shigatsu wa Kimi no Uso,8.59,11
 100,Seishun Buta Yarou Series,8.59,Ni končana
 101,After School Lessons for Unripe Apples,8.58,Ni končana
-102,Tobaku Datenroku Kaiji: One Poker-hen,8.57,16
-103,Monogatari Series: Monster Season,8.57,6
-104,Kino no Tabi: The Beautiful World,8.57,Ni končana
-105,Shinseiki Evangelion,8.57,14
-106,JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,8.57,18
-107,Chihayafuru,8.57,50
-108,Skip Beat!,8.56,Ni končana
-109,Pandora Hearts,8.56,24
-110,Otoyomegatari,8.56,Ni končana
-111,Omniscient Reader's Viewpoint,8.56,Ni končana
-112,Seasons of Blossom,8.56,12
+102,Seasons of Blossom,8.57,12
+103,Tobaku Datenroku Kaiji: One Poker-hen,8.57,16
+104,Monogatari Series: Monster Season,8.57,6
+105,Kino no Tabi: The Beautiful World,8.57,Ni končana
+106,Shinseiki Evangelion,8.57,14
+107,JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,8.57,18
+108,Chihayafuru,8.57,50
+109,Skip Beat!,8.56,Ni končana
+110,Pandora Hearts,8.56,24
+111,Otoyomegatari,8.56,Ni končana
+112,Omniscient Reader's Viewpoint,8.56,Ni končana
 113,Diamond no Ace Act II,8.56,34
 114,Jibaku Shounen Hanako-kun,8.55,Ni končana
 115,Hi no Tori (1967),8.55,16
@@ -119,56 +119,156 @@ rank,naslov,ocena,deli
 118,Monogatari Series: Off Season,8.54,4
 119,Umineko no Naku Koro ni,8.54,8
 120,The Fable,8.54,22
-121,Kimi to Tsuzuru Utakata,8.54,6
+121,Eleceed,8.54,Ni končana
 122,Rurouni Kenshin: Meiji Kenkaku Romantan,8.54,28
 123,Kara no Kyoukai: The Garden of Sinners,8.54,2
 124,Kamisama Hajimemashita,8.54,25
 125,One Outs,8.54,20
-126,Eleceed,8.54,Ni končana
-127,Nan Hao Shang Feng,8.53,Ni končana
+126,Kimi to Tsuzuru Utakata,8.54,6
+127,Medalist,8.53,Ni končana
 128,Mahoutsukai no Yoru,8.53,1
 129,Tokyo Ghoul,8.53,14
 130,Sasaki to Miyano,8.53,Ni končana
 131,Fruits Basket,8.53,23
 132,Suzumiya Haruhi Series,8.53,Ni končana
 133,Ping Pong,8.53,5
-134,Medalist,8.53,Ni končana
+134,Nan Hao Shang Feng,8.53,Ni končana
 135,Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?,8.52,5
 136,Kidou Senshi Gundam: The Origin,8.52,24
 137,Baccano!,8.51,22
 138,Billy Bat,8.51,20
 139,Watashitachi no Shiawase na Jikan,8.51,1
-140,Spy x Family,8.51,Ni končana
-141,The Legend of the Northern Blade,8.51,Ni končana
-142,Hirayasumi,8.51,Ni končana
-143,Steins;Gate,8.51,5
-144,Kakukaku Shikajika,8.51,5
+140,Steins;Gate,8.51,5
+141,Kakukaku Shikajika,8.51,5
+142,Spy x Family,8.51,Ni končana
+143,The Legend of the Northern Blade,8.51,Ni končana
+144,Hirayasumi,8.51,Ni končana
 145,Given,8.51,9
 146,Bungou Stray Dogs,8.50,Ni končana
-147,Yagate Kimi ni Naru: Saeki Sayaka ni Tsuite,8.50,3
-148,Yubisaki to Renren,8.50,Ni končana
+147,Umineko no Naku Koro ni Chiru - Episode 5: End of the Golden Witch,8.50,6
+148,Sakamichi no Apollon,8.50,9
 149,Ouran Koukou Host Club,8.50,18
 150,Fate/Zero,8.50,4
+151,Yagate Kimi ni Naru: Saeki Sayaka ni Tsuite,8.50,3
+152,Yubisaki to Renren,8.50,Ni končana
+153,Bastard,8.49,5
+154,Bakemonogatari,8.49,22
+155,Blue Lock,8.49,Ni končana
+156,The Boxer,8.49,Ni končana
+157,Umineko no Naku Koro ni Chiru,8.49,7
+158,Tensei shitara Slime Datta Ken,8.49,Ni končana
+159,Berserk: Shinen no Kami 2,8.49,Ni končana
+160,Kimi no Suizou wo Tabetai,8.49,2
+161,Spirit Circle,8.48,6
+162,Chikan Otoko,8.48,Ni končana
+163,Here U Are,8.48,Ni končana
+164,Who Made Me a Princess,8.48,9
+165,"Ohayou, Ibarahime",8.48,6
+166,Blue Giant,8.47,10
+167,JoJo no Kimyou na Bouken Part 8: JoJolion,8.47,27
+168,Hinamatsuri,8.47,19
+169,Return of the Blossoming Blade,8.47,Ni končana
+170,No Home,8.47,Ni končana
+171,Vanitas no Karte,8.47,Ni končana
+172,Shimanami Tasogare,8.47,4
+173,blanc,8.47,2
+174,Jujutsu Kaisen,8.47,Ni končana
+175,Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken,8.47,Ni končana
+176,"""Oshi no Ko""",8.47,Ni končana
+177,Cross Game,8.47,17
+178,Eyeshield 21,8.46,37
+179,Fullmetal Alchemist,8.46,7
+180,Kami nomi zo Shiru Sekai,8.46,26
+181,Yuukoku no Moriarty,8.46,Ni končana
+182,Song of the Long March,8.45,Ni končana
+183,Holyland,8.45,18
+184,Ookami to Koushinryou,8.45,16
+185,Kyou kara Ore wa!!,8.45,38
+186,Rainbow: Nisha Rokubou no Shichinin,8.45,22
+187,Kage no Jitsuryokusha ni Naritakute!,8.45,Ni končana
+188,Hirano to Kagiura,8.44,Ni končana
+189,Doraemon,8.44,45
+190,Umineko no Naku Koro ni Chiru - Episode 6: Dawn of the Golden Witch,8.43,6
+191,Gekkan Shoujo Nozaki-kun,8.43,Ni končana
+192,No Game No Life,8.43,Ni končana
+193,Bungou Stray Dogs,8.43,Ni končana
+194,21st Century Boys,8.43,2
+195,Glass no Kamen,8.43,49
+196,Barakamon,8.43,20
+197,Spirit Fingers,8.43,13
+198,Shimeji Simulation,8.43,5
+199,Solo Leveling,8.42,13
+200,Kimi wa Houkago Insomnia,8.42,14
+201,Solo Leveling,8.42,13
+202,Kimi wa Houkago Insomnia,8.42,14
+203,Souyaku Toaru Majutsu no Index,8.42,Ni končana
+204,Horimiya,8.42,17
+205,Lost in the Cloud,8.42,Ni končana
+206,Webtoon Character Na Kang Lim,8.41,Ni končana
+207,Tomodachi Game,8.41,26
+208,Shiori Experience: Jimi na Watashi to Hen na Ojisan,8.41,Ni končana
+209,Mugen no Juunin,8.41,30
+210,Tobaku Mokushiroku Kaiji,8.41,13
+211,Kuroshitsuji,8.41,Ni končana
+212,Innocent Rouge,8.41,12
+213,Youjo Senki,8.40,Ni končana
+214,Yuru Camp△,8.40,Ni končana
+215,Adachi to Shimamura,8.40,Ni končana
+216,Nodame Cantabile,8.40,25
+217,Basara,8.40,27
+218,Tobaku Hakairoku Kaiji,8.40,13
+219,Onanie Master Kurosawa,8.40,4
+220,My Girl,8.39,5
+221,The Breaker,8.39,10
+222,Kimi no Na wa.,8.39,3
+223,"Mata, Onaji Yume wo Miteita",8.39,3
+224,Toshokan no Daimajutsushi,8.39,Ni končana
+225,Kininatteru Hito ga Otoko ja Nakatta,8.39,Ni končana
+226,No.6,8.39,9
+227,Imawa no Kuni no Alice,8.38,18
+228,Koe no Katachi,8.38,Ni končana
+229,Tower of God,8.38,Ni končana
+230,Gunnm,8.38,9
+231,Kaichou wa Maid-sama!,8.38,18
+232,Nichijou,8.38,Ni končana
+233,Bakuman.,8.38,20
+234,Toaru Majutsu no Index,8.38,22
+235,SQ: Begin W/Your Name!,8.38,1
+236,Tensei shitara Slime Datta Ken,8.38,Ni končana
+237,Shousetsu Akatsuki no Yona: Onaji Tsuki no Shita de,8.38,1
+238,xxxHOLiC,8.37,19
+239,Cardcaptor Sakura,8.37,12
+240,Kiseijuu,8.37,10
+241,SKET Dance,8.37,32
+242,The Breaker: New Waves,8.37,20
+243,Noragami,8.37,27
+244,Villains Are Destined to Die,8.37,Ni končana
+245,"Kumo desu ga, Nani ka?",8.37,16
+246,Look Back,8.37,1
+247,"Natsu e no Tunnel, Sayonara no Deguchi",8.36,1
+248,JoJo no Kimyou na Bouken Part 9: The JoJoLands,8.36,Ni končana
+249,Daytime Star,8.36,Ni končana
+250,Boku dake ga Inai Machi,8.36,9
 251,Azumanga Daioh,8.36,4
-252,Shadows House,8.36,Ni končana
-253,Her Tale of Shim Chong,8.35,7
-254,Kieta Hatsukoi,8.35,9
-255,Watashi no Oshi wa Akuyaku Reijou.: Revolution,8.35,Ni končana
-256,Fate/strange Fake,8.35,Ni končana
-257,Wotaku ni Koi wa Muzukashii,8.35,11
-258,Konjiki no Gash!!,8.35,33
-259,Homunculus,8.35,15
-260,Umineko no Naku Koro ni - Episode 3: Banquet of the Golden Witch,8.35,5
-261,Ballroom e Youkoso,8.35,Ni končana
+252,Boku dake ga Inai Machi,8.36,9
+253,Ballroom e Youkoso,8.35,Ni končana
+254,Watashi no Oshi wa Akuyaku Reijou.: Revolution,8.35,Ni končana
+255,Fate/strange Fake,8.35,Ni končana
+256,Wotaku ni Koi wa Muzukashii,8.35,11
+257,Konjiki no Gash!!,8.35,33
+258,Homunculus,8.35,15
+259,Umineko no Naku Koro ni - Episode 3: Banquet of the Golden Witch,8.35,5
+260,Her Tale of Shim Chong,8.34,7
+261,Kieta Hatsukoi,8.35,9
 262,Gochuumon wa Usagi desu ka?,8.34,Ni končana
 263,Versailles no Bara,8.34,10
 264,Kanata kara,8.34,14
 265,Ten: Tenhou-doori no Kaidanji,8.34,18
 266,Piano no Mori,8.33,26
 267,Hadashi no Gen,8.33,10
-268,Machida-kun no Sekai,8.33,7
-269,Mahoutsukai no Yome,8.33,Ni končana
-270,Whale Star: The Gyeongseong Mermaid,8.33,6
+268,Whale Star: The Gyeongseong Mermaid,8.33,6
+269,Machida-kun no Sekai,8.33,7
+270,Mahoutsukai no Yome,8.33,Ni končana
 271,Kimi no Yoru ni Fureru,8.33,1
 272,I Shall Master This Family,8.33,Ni končana
 273,Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 0,8.33,1
@@ -178,127 +278,177 @@ rank,naslov,ocena,deli
 277,Totsukuni no Shoujo,8.32,11
 278,Youjo Senki,8.32,Ni končana
 279,Bleach: Can't Fear Your Own World,8.32,3
-280,Ikoku Nikki,8.32,11
-281,Shousetsu Kimi no Na wa.,8.32,1
-282,Dandadan,8.32,Ni končana
-283,Lovely★Complex,8.32,17
-284,Gakuen Alice,8.32,31
-285,Shin Angyo Onshi,8.32,17
-286,Full Metal Panic! Sigma,8.32,19
-287,Saikyou Densetsu Kurosawa,8.32,11
-288,Hoshi no Samidare,8.32,10
-289,Durarara!!,8.32,13
-290,Mushishi Tokubetsu-hen: Hihamukage,8.32,1
-291,Harukaze no Étranger,8.32,Ni končana
-292,Canis Series,8.31,Ni končana
+280,Mushishi Tokubetsu-hen: Hihamukage,8.32,1
+281,Harukaze no Étranger,8.32,Ni končana
+282,Lovely★Complex,8.32,17
+283,Gakuen Alice,8.32,31
+284,Shin Angyo Onshi,8.32,17
+285,Full Metal Panic! Sigma,8.32,19
+286,Saikyou Densetsu Kurosawa,8.32,11
+287,Hoshi no Samidare,8.32,10
+288,Durarara!!,8.32,13
+289,Ikoku Nikki,8.32,11
+290,Shousetsu Kimi no Na wa.,8.32,1
+291,Dandadan,8.32,Ni končana
+292,Teito Seihai Kitan: Fate/type Redline,8.31,Ni končana
 293,Mars,8.31,15
 294,Touch,8.31,26
 295,Black Jack,8.31,25
 296,Daichouhen Doraemon,8.31,24
-297,Teito Seihai Kitan: Fate/type Redline,8.31,Ni končana
+297,Canis Series,8.31,Ni končana
 298,Ookami Kodomo no Ame to Yuki,8.31,3
 299,Saiki Kusuo no Ψ-nan,8.30,26
 300,Kimi ni Todoke,8.30,30
+301,Death Note Another Note: Los Angeles BB Renzoku Satsujin Jiken,8.30,1
+302,Doukyuusei,8.30,1
+303,Love So Life,8.30,17
+304,Takemitsuzamurai,8.30,8
+305,Blue Giant Supreme,8.30,11
+306,Ojisama to Neko,8.30,Ni končana
+307,Violet Evergarden Gaiden,8.29,1
+308,Bocchi the Rock!,8.29,Ni končana
+309,NHK ni Youkoso!,8.29,1
+310,Tsubasa: RESERVoir CHRoNiCLE,8.29,28
+311,Kodomo no Omocha,8.29,10
+312,Paradise Kiss,8.29,5
+313,Sora wa Akai Kawa no Hotori,8.29,28
+314,Blame!,8.29,10
+315,Hellsing,8.29,10
+316,Black Lagoon,8.29,Ni končana
+317,Buddha,8.29,14
+318,Higurashi no Naku Koro ni Kai: Meakashi-hen,8.29,4
+319,Orange,8.29,7
+320,Tokyo Ghoul:re,8.29,16
+321,Chichi to Hige-Gorilla to Watashi,8.29,7
+322,Fumetsu no Anata e,8.29,Ni končana
+323,Koko wa Ima kara Rinri desu.,8.29,Ni končana
+324,Re:Zero kara Hajimeru Isekai Seikatsu Ex,8.28,Ni končana
+325,Yomawari Sensei,8.28,9
+326,Annarasumanara,8.28,3
+327,Sakamichi no Apollon: Bonus Track,8.28,1
+328,D.Gray-man,8.28,Ni končana
+329,Claymore,8.28,27
+330,Tokyo Crazy Paradise,8.28,19
+331,Angel Densetsu,8.28,15
+332,Meitantei Conan,8.28,Ni končana
+333,Higurashi no Naku Koro ni Kai: Tsumihoroboshi-hen,8.28,4
+334,Komatta Toki ni wa Hoshi ni Kike,8.28,26
+335,Hana to Akuma,8.28,10
+336,Higurashi no Naku Koro ni Kai: Minagoroshi-hen,8.28,6
+337,Umineko no Naku Koro ni - Episode 4: Alliance of the Golden Witch,8.28,6
+338,Gakuen Babysitters,8.28,Ni končana
+339,Hanazakari no Kimitachi e,8.27,23
+340,Saint Seiya: The Lost Canvas - Meiou Shinwa,8.27,25
+341,Dengeki Daisy,8.27,16
+342,Kage no Jitsuryokusha ni Naritakute!,8.27,Ni končana
+343,Boy Meets Maria,8.27,1
+344,Sweet Home,8.27,12
+345,Bungou Stray Dogs Wan!,8.27,Ni končana
+346,Kengan Ashura,8.27,27
+347,Trigun Maximum,8.26,14
+348,Hachimitsu to Clover,8.26,10
+349,Saiyuuki Gaiden,8.26,4
+350,Liar Game,8.26,19
 351,Magi,8.26,37
-352,Katanagatari,8.26,12
-353,Shouwa Genroku Rakugo Shinjuu,8.26,10
-354,Yuki no Yousei,8.26,1
-355,Leviathan,8.25,Ni končana
-356,Planetes,8.25,4
-357,JoJo no Kimyou na Bouken Part 6: Stone Ocean,8.25,17
-358,Toaru Majutsu no Index Gaiden: Toaru Kagaku no Railgun,8.25,Ni končana
-359,Kuragehime,8.25,17
-360,Sunny,8.25,6
-361,Ansatsu Kyoushitsu,8.25,21
-362,Feng Shen Ji II,8.25,Ni končana
-363,Sword Art Online: Progressive,8.25,Ni končana
-364,Feng Shen Ji III,8.25,Ni končana
-365,No.6,8.24,9
-366,Hikari to Tomo ni...: Jiheishouji wo Kakaete,8.24,15
-367,Hai to Gensou no Grimgar,8.24,Ni končana
-368,SSS-Class Revival Hunter,8.24,Ni končana
-369,Akuyaku Reijou no Naka no Hito: Danzai sareta Tenseisha no Tame Usotsuki Heroine ni Fukushuu Itashimasu,8.24,Ni končana
-370,Hidamari ga Kikoeru: Limit,8.24,3
-371,Jigokuraku,8.24,13
-372,Uma Musume Cinderella Gray,8.24,Ni končana
-373,"Mata, Onaji Yume wo Miteita",8.24,1
-374,Kishuku Gakkou no Juliet,8.24,16
-375,Koimonogatari,8.24,Ni končana
-376,Taishou Otome Otogibanashi,8.24,5
-377,Beastars,8.24,22
-378,Kaichou wa Maid-sama!: Marriage,8.23,1
-379,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,8.23,Ni končana
-380,Danshi Koukousei no Nichijou,8.23,7
-381,Petshop of Horrors,8.23,10
-382,Initial D,8.23,48
-383,Shonan Junai Gumi!,8.23,31
-384,Rookies,8.23,24
-385,Akagami no Shirayuki-hime,8.23,Ni končana
-386,Diamond no Ace,8.23,47
-387,Yuru Yuri,8.23,Ni končana
-388,Act-age,8.23,12
-389,Boku no Kokoro no Yabai Yatsu,8.23,Ni končana
-390,King's Maker,8.23,3
+352,Yuki no Yousei,8.26,1
+353,Katanagatari,8.26,12
+354,Shouwa Genroku Rakugo Shinjuu,8.26,10
+355,Kuragehime,8.25,17
+356,Sunny,8.25,6
+357,Ansatsu Kyoushitsu,8.25,21
+358,Feng Shen Ji II,8.25,Ni končana
+359,Sword Art Online: Progressive,8.25,Ni končana
+360,Feng Shen Ji III,8.25,Ni končana
+361,Leviathan,8.25,Ni končana
+362,Planetes,8.25,4
+363,JoJo no Kimyou na Bouken Part 6: Stone Ocean,8.25,17
+364,Toaru Majutsu no Index Gaiden: Toaru Kagaku no Railgun,8.25,Ni končana
+365,Hikari to Tomo ni...: Jiheishouji wo Kakaete,8.24,15
+366,Hidamari ga Kikoeru: Limit,8.24,3
+367,Jigokuraku,8.24,13
+368,Uma Musume Cinderella Gray,8.24,Ni končana
+369,"Mata, Onaji Yume wo Miteita",8.24,1
+370,No.6,8.24,9
+371,SSS-Class Revival Hunter,8.24,Ni končana
+372,Akuyaku Reijou no Naka no Hito: Danzai sareta Tenseisha no Tame Usotsuki Heroine ni Fukushuu Itashimasu,8.24,Ni končana
+373,Kishuku Gakkou no Juliet,8.24,16
+374,Koimonogatari,8.24,Ni končana
+375,Taishou Otome Otogibanashi,8.24,5
+376,Beastars,8.24,22
+377,Hai to Gensou no Grimgar,8.24,Ni končana
+378,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,8.23,Ni končana
+379,Danshi Koukousei no Nichijou,8.23,7
+380,Petshop of Horrors,8.23,10
+381,Initial D,8.23,48
+382,Shonan Junai Gumi!,8.23,31
+383,Rookies,8.23,24
+384,Akagami no Shirayuki-hime,8.23,Ni končana
+385,Diamond no Ace,8.23,47
+386,Yuru Yuri,8.23,Ni končana
+387,Act-age,8.23,12
+388,Boku no Kokoro no Yabai Yatsu,8.23,Ni končana
+389,King's Maker,8.23,3
+390,Kaichou wa Maid-sama!: Marriage,8.23,1
 391,Mayonaka Heart Tune,8.23,Ni končana
-392,Yugami-kun ni wa Tomodachi ga Inai,8.22,16
-393,Urasekai Picnic,8.22,Ni končana
-394,Ghost Hunt,8.22,12
-395,Genshiken,8.22,21
-396,Eden: It's an Endless World!,8.22,18
-397,Silver Diamond,8.22,27
-398,Boogiepop Series,8.22,Ni končana
-399,Sanctuary,8.22,12
-400,Cat Street,8.22,8
-401,Kamigami no Itadaki,8.22,5
-402,GTO: Shonan 14 Days,8.22,9
-403,Private Opinion: Banana Fish Another Story,8.22,1
-404,Non Non Biyori,8.22,16
-405,Hourou Musuko,8.21,15
-406,7 Seeds,8.21,35
-407,Solanin,8.21,2
-408,Crows,8.21,26
-409,Toradora!,8.21,10
-410,Tasogare Otome x Amnesia,8.21,10
-411,Aku no Hana,8.21,11
-412,Taiyou no Ie,8.21,13
-413,"Tadaima, Okaeri",8.21,Ni končana
-414,Summertime Render,8.21,13
-415,Boku ga Otto ni Deau made,8.21,1
-416,Tsurezure Children,8.21,12
-417,Dead Dead Demons Dededede Destruction,8.20,12
-418,Steins;Gate: Aishin Meizu no Babel,8.20,4
-419,Bishoujo Senshi Sailor Moon,8.20,18
-420,Meteor Methuselah,8.20,11
-421,Saiyuuki Reload,8.20,10
-422,Hikaru ga Shinda Natsu,8.20,Ni končana
-423,Semantic Error,8.20,Ni končana
-424,See You in My 19th Life,8.20,12
-425,Majo no Tabitabi,8.20,Ni končana
-426,Dr. Stone,8.20,27
-427,Majo to Yajuu,8.20,10
-428,Steins;Gate 0,8.20,6
-429,NieR:Automata,8.20,3
-430,Machikado Mazoku,8.19,Ni končana
-431,The Ravages of Time,8.19,Ni končana
-432,Historie,8.19,Ni končana
-433,Rokka no Yuusha,8.19,6
-434,Innocent,8.19,9
-435,Hirunaka no Ryuusei,8.19,12
-436,Date A Live,8.19,22
-437,Mondaiji-tachi ga Isekai kara Kuru Sou desu yo?,8.19,12
-438,Cheese in the Trap Season 4,8.19,7
-439,Fushigi Neko no Kyuu-chan,8.19,8
-440,Why Raeliana Ended Up at the Duke's Mansion,8.19,Ni končana
-441,Your Throne,8.19,Ni končana
-442,A Stepmother's Märchen,8.19,Ni končana
-443,Romance 101,8.19,11
-444,Ren Zha Fanpai Zijiu Xitong,8.19,3
-445,Bungou Stray Dogs: Dead Apple,8.18,4
-446,Shinai naru Boku e Satsui wo Komete,8.18,11
-447,Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san,8.18,Ni končana
-448,Bokura no Shokutaku,8.18,1
-449,Yuu☆Yuu☆Hakusho,8.18,19
-450,H2,8.18,34
+392,Ghost Hunt,8.22,12
+393,Genshiken,8.22,21
+394,Eden: It's an Endless World!,8.22,18
+395,Silver Diamond,8.22,27
+396,Boogiepop Series,8.22,Ni končana
+397,Sanctuary,8.22,12
+398,Cat Street,8.22,8
+399,Kamigami no Itadaki,8.22,5
+400,GTO: Shonan 14 Days,8.22,9
+401,Private Opinion: Banana Fish Another Story,8.22,1
+402,Non Non Biyori,8.22,16
+403,Yugami-kun ni wa Tomodachi ga Inai,8.22,16
+404,Urasekai Picnic,8.22,Ni končana
+405,Summertime Render,8.21,13
+406,Boku ga Otto ni Deau made,8.21,1
+407,Tsurezure Children,8.21,12
+408,Hourou Musuko,8.21,15
+409,7 Seeds,8.21,35
+410,Solanin,8.21,2
+411,Crows,8.21,26
+412,Toradora!,8.21,10
+413,Tasogare Otome x Amnesia,8.21,10
+414,Aku no Hana,8.21,11
+415,Taiyou no Ie,8.21,13
+416,"Tadaima, Okaeri",8.21,Ni končana
+417,Majo no Tabitabi,8.20,Ni končana
+418,Dr. Stone,8.20,27
+419,Majo to Yajuu,8.20,10
+420,Steins;Gate 0,8.20,6
+421,NieR:Automata,8.20,3
+422,Dead Dead Demons Dededede Destruction,8.20,12
+423,Hikaru ga Shinda Natsu,8.20,Ni končana
+424,Semantic Error,8.20,Ni končana
+425,See You in My 19th Life,8.20,12
+426,Steins;Gate: Aishin Meizu no Babel,8.20,4
+427,Bishoujo Senshi Sailor Moon,8.20,18
+428,Meteor Methuselah,8.20,11
+429,Saiyuuki Reload,8.20,10
+430,The Ravages of Time,8.19,Ni končana
+431,Historie,8.19,Ni končana
+432,Rokka no Yuusha,8.19,6
+433,Innocent,8.19,9
+434,Machikado Mazoku,8.19,Ni končana
+435,Cheese in the Trap Season 4,8.19,7
+436,Fushigi Neko no Kyuu-chan,8.19,8
+437,Why Raeliana Ended Up at the Duke's Mansion,8.19,Ni končana
+438,Your Throne,8.19,Ni končana
+439,A Stepmother's Märchen,8.19,Ni končana
+440,Romance 101,8.19,11
+441,Ren Zha Fanpai Zijiu Xitong,8.19,3
+442,Hirunaka no Ryuusei,8.19,12
+443,Date A Live,8.19,22
+444,Mondaiji-tachi ga Isekai kara Kuru Sou desu yo?,8.19,12
+445,High School DxD,8.18,25
+446,xxxHOLiC: Rei,8.18,4
+447,Bokura no Shokutaku,8.18,1
+448,Yuu☆Yuu☆Hakusho,8.18,19
+449,H2,8.18,34
+450,Koori no Mamono no Monogatari,8.18,24
 451,Koori no Mamono no Monogatari,8.18,24
 452,The One,8.18,18
 453,Higurashi no Naku Koro ni Kai: Matsuribayashi-hen,8.18,8
@@ -308,194 +458,1044 @@ rank,naslov,ocena,deli
 457,Mahouka Koukou no Rettousei,8.17,32
 458,Can't See Can't Hear But Love,8.17,6
 459,Nukozuke!,8.17,Ni končana
-460,Cheese in the Trap Season 3,8.17,12
-461,Fukigen na Mononokean,8.17,18
-462,Tonikaku Kawaii,8.17,Ni končana
-463,Sasayaku You ni Koi wo Utau,8.17,Ni končana
-464,Yofukashi no Uta,8.17,20
-465,Gimai Seikatsu,8.17,Ni končana
+460,Tonikaku Kawaii,8.17,Ni končana
+461,Sasayaku You ni Koi wo Utau,8.17,Ni končana
+462,Yofukashi no Uta,8.17,20
+463,Gimai Seikatsu,8.17,Ni končana
+464,Pick Me Up,8.17,Ni končana
+465,Fukigen na Mononokean,8.17,18
 466,Ookiku Furikabutte,8.17,Ni končana
 467,JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,8.17,17
 468,Hitsugikatsugi no Kuro.: Kaichu Tabi no Wa,8.17,7
 469,Touhou Shinigami: Meteor Methuselah Gaiden,8.17,1
-470,Pick Me Up,8.17,Ni končana
-471,Shingeki no Kyojin: Kuinaki Sentaku,8.16,2
-472,Helck,8.16,12
-473,Hajishirazu no Purple Haze: JoJo no Kimyou na Bouken yori,8.16,1
-474,Feng Shen Ji,8.16,Ni končana
-475,Something About Us,8.16,5
-476,Kimetsu no Yaiba,8.16,23
-477,Doukyuusei: Gold Ring & Silver Ring,8.16,1
-478,Uzumaki,8.16,3
-479,Shingetsutan Tsukihime,8.16,10
-480,Fushigi Yuugi: Genbu Kaiden,8.16,12
-481,Sengoku Youko,8.16,17
-482,Sora no Otoshimono,8.16,20
-483,Zankoku na Kami ga Shihai suru,8.16,17
-484,Yamada-kun to Lv999 no Koi wo Suru,8.16,Ni končana
-485,Shin High School DxD,8.15,Ni končana
-486,Ase to Sekken,8.15,11
-487,Heesu in Class 2,8.15,4
-488,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,8.15,3
-489,Otouto no Otto,8.15,4
-490,Hidamari ga Kikoeru,8.15,1
-491,Kareshi Kanojo no Jijou,8.15,21
-492,Sayonara Zetsubou Sensei,8.15,30
-493,Emma,8.15,10
-494,Shiawase Kissa 3-choume,8.15,15
-495,Akagi: Yami ni Oritatta Tensai,8.15,36
-496,Adolf ni Tsugu,8.15,4
-497,Kimi to Boku.,8.15,17
-498,Keishichou Tokuhanka 007,8.15,11
-499,Yakusoku no Neverland,8.15,20
-500,Getter Robo Saga,8.14,9
-601,Re:Zero kara Hajimeru Isekai Seikatsu: Dai-4 Shou - Seiiki to Gouyoku no Majo,8.09,Ni končana
-602,Ao no Hako,8.09,Ni končana
+470,Cheese in the Trap Season 3,8.17,12
+471,Something About Us,8.16,5
+472,Kimetsu no Yaiba,8.16,23
+473,Doukyuusei: Gold Ring & Silver Ring,8.16,1
+474,Hajishirazu no Purple Haze: JoJo no Kimyou na Bouken yori,8.16,1
+475,Feng Shen Ji,8.16,Ni končana
+476,Yamada-kun to Lv999 no Koi wo Suru,8.16,Ni končana
+477,Uzumaki,8.16,3
+478,Shingetsutan Tsukihime,8.16,10
+479,Fushigi Yuugi: Genbu Kaiden,8.16,12
+480,Sengoku Youko,8.16,17
+481,Sora no Otoshimono,8.16,20
+482,Zankoku na Kami ga Shihai suru,8.16,17
+483,Shingeki no Kyojin: Kuinaki Sentaku,8.16,2
+484,Helck,8.16,12
+485,Otouto no Otto,8.15,4
+486,Hidamari ga Kikoeru,8.15,1
+487,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,8.15,3
+488,Yakusoku no Neverland,8.15,20
+489,Kareshi Kanojo no Jijou,8.15,21
+490,Sayonara Zetsubou Sensei,8.15,30
+491,Emma,8.15,10
+492,Shiawase Kissa 3-choume,8.15,15
+493,Akagi: Yami ni Oritatta Tensai,8.15,36
+494,Adolf ni Tsugu,8.15,4
+495,Kimi to Boku.,8.15,17
+496,Keishichou Tokuhanka 007,8.15,11
+497,Shin High School DxD,8.15,Ni končana
+498,Ase to Sekken,8.15,11
+499,Heesu in Class 2,8.15,4
+500,Mystery to Iu nakare,8.14,Ni končana
+501,Sakamoto Days,8.14,Ni končana
+502,Getter Robo Saga,8.14,9
+503,Binbougami ga!,8.14,16
+504,Hoshi Mamoru Inu,8.14,1
+505,Ao Haru Ride,8.14,6
+506,Mahou Shoujo Madoka★Magica: The Different Story,8.14,3
+507,No.6 Beyond,8.14,1
+508,Nano Machine,8.14,Ni končana
+509,Debut or Die!,8.14,Ni končana
+510,NHK ni Youkoso!,8.14,8
+511,Maison Ikkoku,8.14,15
+512,Gunnm: Last Order,8.14,19
+513,Iryuu: Team Medical Dragon,8.14,25
+514,JoJo no Kimyou na Bouken Part 2: Sentou Chouryuu,8.14,7
+515,Bakuon Rettou,8.14,18
+516,Major,8.14,78
+517,God Child,8.13,8
+518,Vagrant Soldier Ares,8.13,26
+519,NG Life,8.13,9
+520,Oresama Teacher,8.13,29
+521,Hanma Baki,8.13,37
+522,Beelzebub,8.13,28
+523,Full Metal Panic!,8.13,12
+524,Ao Haru Ride,8.13,13
+525,Bokura wa Minna Kawai-sou,8.13,11
+526,Fate/kaleid liner Prisma☆Illya 3rei!!,8.13,Ni končana
+527,Your Letter,8.13,1
+528,Amaama to Inazuma,8.13,12
+529,Mushoku Tensei: Isekai Ittara Honki Dasu,8.13,Ni končana
+530,How to Win My Husband Over,8.13,Ni končana
+531,Yoake no Uta,8.12,Ni končana
+532,Amayo no Tsuki,8.12,Ni končana
+533,Gokushufudou,8.12,Ni končana
+534,Ookami Kodomo no Ame to Yuki,8.12,1
+535,Hikaru no Go,8.12,23
+536,City Hunter,8.12,35
+537,Let Dai,8.12,15
+538,Akumetsu,8.12,18
+539,Soredemo Machi wa Mawatteiru,8.12,16
+540,Baby Steps,8.12,47
+541,Capeta,8.12,32
+542,Sabishisugite Lesbian Fuuzoku ni Ikimashita Report,8.12,1
+543,Hitori Koukan Nikki,8.11,2
+544,Katekyou Hitman Reborn!,8.11,42
+545,Chrno Crusade,8.11,8
+546,Higurashi no Naku Koro ni: Watanagashi-hen,8.11,2
+547,Rosario to Vampire: Season II,8.11,14
+548,Oooku,8.11,19
+549,Ginga Nagareboshi Gin,8.11,18
+550,Seven Days,8.11,2
+551,Tonari no Kaibutsu-kun,8.11,13
+552,Tsukuritai Onna to Tabetai Onna,8.11,Ni končana
+553,Trapped,8.11,Ni končana
+554,Telework Yotabanashi,8.11,1
+555,Mushoku Tensei: Dasoku-hen,8.11,Ni končana
+556,Hidamari ga Kikoeru: Koufukuron,8.11,1
+557,Winter Woods,8.11,7
+558,Ponkotsu Ponko,8.11,10
+559,One Piece: Episode A,8.11,2
+560,Kocchi Muite! Miiko,8.11,Ni končana
+561,Noblesse,8.11,Ni končana
+562,Yahari Ore no Seishun Love Comedy wa Machigatteiru. @comic,8.11,22
+563,Karakai Jouzu no Takagi-san,8.10,20
+564,Hakumei to Mikochi,8.10,Ni končana
+565,Fate/stay night: Garden of Avalon,8.10,1
+566,Roxana,8.10,Ni končana
+567,Kono Subarashii Sekai ni Shukufuku wo! Spin-off: Kono Subarashii Sekai ni Bakuen wo!,8.10,5
+568,Cheese in the Trap Season 2,8.10,9
+569,X,8.10,18
+570,Sakigake!! Cromartie Koukou,8.10,17
+571,Higurashi no Naku Koro ni: Onikakushi-hen,8.10,2
+572,Kuroko no Basket,8.10,30
+573,Touhou Ibara Kasen: Wild and Horned Hermit.,8.10,10
+574,Dai Densetsu no Yuusha no Densetsu,8.10,Ni končana
+575,Kyoukaisenjou no Horizon,8.10,29
+576,Hikaru ga Chikyuu ni Ita Koro......,8.10,10
+577,Ouran Koukou Host Club University Special,8.10,Ni končana
+578,Ore Monogatari!!,8.10,13
+579,Magi: Sinbad no Bouken,8.10,19
+580,Tengoku Daimakyou,8.10,Ni končana
+581,Kimi ga Shinu made Koi wo Shitai,8.10,Ni končana
+582,Jujutsu Kaisen 0: Tokyo Toritsu Jujutsu Koutou Senmon Gakkou,8.09,1
+583,One Room Angel,8.09,1
+584,Jibaku Shounen Hanako-kun 0,8.09,1
+585,Re:Zero kara Hajimeru Isekai Seikatsu: Dai-4 Shou - Seiiki to Gouyoku no Majo,8.09,Ni končana
+586,Ao no Hako,8.09,Ni končana
+587,Re:Zero kara Hajimeru Isekai Seikatsu: Dai-3 Shou - Truth of Zero,8.09,11
+588,Higurashi no Naku Koro ni - Dai 1-wa: Onikakushi-hen,8.09,2
+589,Girls & Panzer: Ribbon no Musha,8.09,16
+590,"Hikaeme ni Ittemo, Kore wa Ai",8.09,Ni končana
+591,"Kinou no Haru de, Kimi wo Matsu",8.09,1
+592,Donten ni Warau,8.09,6
+593,K: Memory of Red,8.09,3
+594,Gantz,8.09,37
+595,Koukou Debut,8.09,15
+596,Majin Tantei Nougami Neuro,8.09,23
+597,JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,8.09,16
+598,Soul Eater,8.09,25
+599,Pocket Monsters Special,8.09,Ni končana
+600,Hokuto no Ken,8.09,27
+601,Donten ni Warau,8.09,6
+602,K: Memory of Red,8.09,3
 603,Re:Zero kara Hajimeru Isekai Seikatsu: Dai-3 Shou - Truth of Zero,8.09,11
 604,Hitoribocchi no ○○ Seikatsu,8.08,8
 605,"Komi-san wa, Comyushou desu.",8.08,Ni končana
 606,Karakai Jouzu no (Moto) Takagi-san,8.08,Ni končana
 607,Runway de Waratte,8.08,22
-608,Kindaichi Shounen no Jikenbo: File Series,8.08,27
-609,Boku no Chikyuu wo Mamotte,8.08,21
-610,Shijou Saikyou no Deshi Kenichi,8.08,61
-611,Girl Friends,8.08,5
-612,Ultra Heaven,8.08,3
-613,Touhou Suzunaan: Forbidden Scrollery.,8.08,7
-614,Navillera: Like a Butterfly,8.08,5
-615,Rojica to Rakkasei,8.07,3
-616,30-sai made Doutei dato Mahoutsukai ni Nareru Rashii,8.07,Ni končana
-617,Anemone wa Netsu wo Obiru,8.07,Ni končana
-618,Naruto,8.07,72
-619,Beauty Pop,8.07,10
-620,Ore to Akuma no Blues,8.07,Ni končana
-621,Five Star Stories,8.07,Ni končana
-622,Tobaku Datenroku Kaiji,8.07,13
-623,Megumi no Daigo,8.07,20
-624,D.Gray-man: Reverse,8.07,3
-625,Getter Robo Go,8.07,7
-626,One Piece: Strong World,8.07,Ni končana
-627,Hotaru no Yomeiri,8.07,Ni končana
-628,Orange,8.07,3
-629,Cardcaptor Sakura: Clear Card-hen,8.07,16
-630,Ran to Haiiro no Sekai,8.07,7
-631,Mahou Shoujo Madoka★Magica,8.07,3
-632,Kase-san Series,8.07,5
-633,About Death,8.07,2
-634,Gekijouban Mahou Shoujo Madoka★Magica: Shinpen - Hangyaku no Monogatari,8.07,3
+608,Navillera: Like a Butterfly,8.08,5
+609,Kindaichi Shounen no Jikenbo: File Series,8.08,27
+610,Boku no Chikyuu wo Mamotte,8.08,21
+611,Shijou Saikyou no Deshi Kenichi,8.08,61
+612,Girl Friends,8.08,5
+613,Ultra Heaven,8.08,3
+614,Touhou Suzunaan: Forbidden Scrollery.,8.08,7
+615,Ran to Haiiro no Sekai,8.07,7
+616,Mahou Shoujo Madoka★Magica,8.07,3
+617,Kase-san Series,8.07,5
+618,About Death,8.07,2
+619,Rojica to Rakkasei,8.07,3
+620,30-sai made Doutei dato Mahoutsukai ni Nareru Rashii,8.07,Ni končana
+621,Anemone wa Netsu wo Obiru,8.07,Ni končana
+622,Gekijouban Mahou Shoujo Madoka★Magica: Shinpen - Hangyaku no Monogatari,8.07,3
+623,Orange,8.07,3
+624,Cardcaptor Sakura: Clear Card-hen,8.07,16
+625,Naruto,8.07,72
+626,Beauty Pop,8.07,10
+627,Ore to Akuma no Blues,8.07,Ni končana
+628,Five Star Stories,8.07,Ni končana
+629,Tobaku Datenroku Kaiji,8.07,13
+630,Megumi no Daigo,8.07,20
+631,D.Gray-man: Reverse,8.07,3
+632,Getter Robo Go,8.07,7
+633,One Piece: Strong World,8.07,Ni končana
+634,Hotaru no Yomeiri,8.07,Ni končana
 635,"Owari no Seraph: Ichinose Guren, 16-sai no Catastrophe",8.06,7
 636,Baraou no Souretsu,8.06,17
-637,Witch of Mine,8.06,4
-638,Mystical,8.06,5
-639,Wild Adapter,8.06,7
-640,Gunslinger Girl,8.06,15
-641,Gokusen,8.06,15
-642,Shigurui,8.06,15
-643,Shaman King Kanzenban,8.06,Ni končana
-644,Koi dano Ai dano,8.06,11
-645,Gangsta.,8.06,Ni končana
-646,High Score Girl,8.06,10
+637,Koi dano Ai dano,8.06,11
+638,Gangsta.,8.06,Ni končana
+639,High Score Girl,8.06,10
+640,Witch of Mine,8.06,4
+641,Mystical,8.06,5
+642,Wild Adapter,8.06,7
+643,Gunslinger Girl,8.06,15
+644,Gokusen,8.06,15
+645,Shigurui,8.06,15
+646,Shaman King Kanzenban,8.06,Ni končana
 647,Nogi Wakaba wa Yuusha de Aru,8.06,2
 648,Kekkai Sensen: Back 2 Back,8.05,10
-649,Suki na Ko ga Megane wo Wasureta,8.05,12
-650,The Remarried Empress,8.05,Ni končana
+649,Pandora Hearts: Caucus Race,8.05,3
+650,Hyouka,8.05,Ni končana
 651,Aishiteru Game wo Owarasetai,8.05,Ni končana
 652,Super no Ura de Yani Suu Futari,8.05,Ni končana
 653,Museru kurai no Ai wo Ageru,8.05,Ni končana
 654,Tanaka-kun wa Itsumo Kedaruge,8.05,13
-655,Pandora Hearts: Caucus Race,8.05,3
-656,Hyouka,8.05,Ni končana
-657,Dogs: Bullets & Carnage,8.05,10
-658,Higurashi no Naku Koro ni: Tatarigoroshi-hen,8.05,2
-659,Yamamoto Zenjirou to Moushimasu,8.05,5
-660,Ashita no Ousama,8.05,10
-661,Kingdom Hearts: 358/2 Days,8.05,5
-662,Steins;Gate,8.05,3
-663,Bokurano,8.04,11
-664,Rough,8.04,12
-665,Hotarubi no Mori e,8.04,1
-666,Adekan,8.04,Ni končana
-667,Saraiya Goyou,8.04,8
-668,Saiyuuki Reload Blast,8.04,Ni končana
-669,Nick to Lever,8.04,3
-670,Mairimashita! Iruma-kun: If Episode of Mafia,8.04,Ni končana
-671,Shinsetsu Ookami to Koushinryou: Ookami to Youhishi,8.04,Ni končana
-672,Shuumatsu no Walküre,8.04,Ni končana
-673,Houkago Shounen Hanako-kun,8.04,Ni končana
-674,Zense Coupling,8.04,7
-675,Unmei no Hito ni Deau Hanashi,8.04,Ni končana
-676,Gabai: Saga no Gabai Baachan,8.04,11
-677,Ouran Koukou Host Club Short Special,8.04,Ni končana
-678,Zoku Hoshi Mamoru Inu,8.04,1
-679,Yamada-kun to 7-nin no Majo,8.04,28
-680,Medaka Box Gaiden: Good Loser Kumagawa,8.04,2
+655,Dogs: Bullets & Carnage,8.05,10
+656,Higurashi no Naku Koro ni: Tatarigoroshi-hen,8.05,2
+657,Yamamoto Zenjirou to Moushimasu,8.05,5
+658,Ashita no Ousama,8.05,10
+659,Kingdom Hearts: 358/2 Days,8.05,5
+660,Steins;Gate,8.05,3
+661,Suki na Ko ga Megane wo Wasureta,8.05,12
+662,The Remarried Empress,8.05,Ni končana
+663,Shuumatsu no Walküre,8.04,Ni končana
+664,Houkago Shounen Hanako-kun,8.04,Ni končana
+665,Zense Coupling,8.04,7
+666,Unmei no Hito ni Deau Hanashi,8.04,Ni končana
+667,Nick to Lever,8.04,3
+668,Mairimashita! Iruma-kun: If Episode of Mafia,8.04,Ni končana
+669,Shinsetsu Ookami to Koushinryou: Ookami to Youhishi,8.04,Ni končana
+670,Gabai: Saga no Gabai Baachan,8.04,11
+671,Ouran Koukou Host Club Short Special,8.04,Ni končana
+672,Zoku Hoshi Mamoru Inu,8.04,1
+673,Yamada-kun to 7-nin no Majo,8.04,28
+674,Medaka Box Gaiden: Good Loser Kumagawa,8.04,2
+675,Bokurano,8.04,11
+676,Rough,8.04,12
+677,Hotarubi no Mori e,8.04,1
+678,Adekan,8.04,Ni končana
+679,Saraiya Goyou,8.04,8
+680,Saiyuuki Reload Blast,8.04,Ni končana
 681,Gakkougurashi!,8.04,12
 682,Fate/stay night: Heaven's Feel,8.04,Ni končana
 683,Higurashi no Naku Koro ni - Dai 3-wa: Tatarigoroshi-hen,8.03,2
 684,Nekota no Koto ga Kininatte Shikatanai.,8.03,10
-685,Full Moon wo Sagashite,8.03,7
-686,Devilman,8.03,5
-687,Vassalord.,8.03,7
-688,Chichi no Koyomi,8.03,1
-689,Oboreru Knife,8.03,17
-690,Konjiki no Gash!! 2,8.03,Ni končana
-691,The Legend of the Sun Knight,8.03,8
-692,Byousoku 5 Centimeter,8.03,1
-693,Ghost Hunt: Akumu no Sumu Ie,8.03,3
-694,Kubera,8.03,Ni končana
-695,Saenai Heroine no Sodatekata,8.03,13
-696,Watashi no Shiawase na Kekkon,8.03,Ni končana
-697,King's Maker: Triple Crown,8.03,Ni končana
-698,Subete no Jinrui wo Hakai suru. Sorera wa Saisei Dekinai.,8.02,Ni končana
-699,Restart wa Onaka wo Sukasete,8.02,1
-700,Vampire Juujikai,8.02,9
-751,Shigeshoushi,7.99,7
-752,Id,7.99,29
-753,Kingyosou,7.99,2
-754,Golden Days,7.99,8
-755,Sumire♡16-sai!!,7.99,5
-756,Giant Killing,7.99,Ni končana
-757,Seitokai Yakuindomo,7.99,22
-758,Viral Hit,7.99,Ni končana
-759,Positively Yours,7.99,8
-760,Maybe Meant to Be,7.99,Ni končana
-761,Doupo Cangqiong,7.99,Ni končana
-762,Sono Bisque Doll wa Koi wo Suru,7.99,Ni končana
-763,Fools,7.99,4
-764,"Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",7.99,Ni končana
-765,Mahou Shoujo Madoka★Magica,7.99,2
-766,Konya mo Nemurenai,7.99,3
-767,Chuunibyou demo Koi ga Shitai!,7.99,4
-768,Ajin,7.99,17
-769,Kanata no Astra,7.99,5
-770,"Doukyonin wa Hiza, Tokidoki, Atama no Ue.",7.99,Ni končana
-771,Chi no Wadachi,7.99,17
-772,4 Cut Hero,7.98,Ni končana
-773,Higurashi no Naku Koro ni - Dai 2-wa: Watanagashi-hen,7.98,2
-774,Shinigami wo Tabeta Shoujo,7.98,2
-775,Overlord,7.98,19
-776,Ranma ½,7.98,38
-777,Kekkaishi,7.98,35
-778,Life,7.98,20
-779,"""Bungaku Shoujo"" Series",7.98,8
-780,Mudazumonaki Kaikaku,7.98,16
-781,Secret Lady,7.98,Ni končana
-782,The Perks of Being a Villainess,7.98,Ni končana
-783,Bocchi the Rock! Gaiden: Hiroi Kikuri no Fukazake Nikki,7.98,Ni končana
-784,Hori-san to Miyamura-kun,7.98,10
-785,Buttobi Itto,7.98,26
-786,Lookism,7.98,Ni končana
-787,Hypnosis Mic: Before the Battle - The Dirty Dawg,7.98,4
-788,Wind Breaker,7.98,Ni končana
-789,Odd Girl Out,7.97,Ni končana
-790,Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Kizokuin Gaiden,7.97,1
-791,Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken,7.97,Ni končana
-792,Tokyo Babylon,7.97,7
-793,School Rumble,7.97,22
-794,Mekakushi no Kuni,7.97,9
-795,Bokura ga Ita,7.97,16
-796,Kaijuu no Kodomo,7.97,5
-797,Strobe Edge,7.97,10
-798,Code Geass: Hangyaku no Lelouch,7.97,5
-799,D-Frag!,7.97,Ni končana
-800,"Maoyuu Maou Yuusha: 'Kono Ware no Mono to Nare, Yuusha yo' 'Kotowaru!'",7.97,18
+685,Watashi no Shiawase na Kekkon,8.03,Ni končana
+686,King's Maker: Triple Crown,8.03,Ni končana
+687,Konjiki no Gash!! 2,8.03,Ni končana
+688,Full Moon wo Sagashite,8.03,7
+689,Devilman,8.03,5
+690,Vassalord.,8.03,7
+691,Chichi no Koyomi,8.03,1
+692,Oboreru Knife,8.03,17
+693,The Legend of the Sun Knight,8.03,8
+694,Byousoku 5 Centimeter,8.03,1
+695,Ghost Hunt: Akumu no Sumu Ie,8.03,3
+696,Kubera,8.03,Ni končana
+697,Saenai Heroine no Sodatekata,8.03,13
+698,Kagerou Daze,8.02,8
+699,Subete no Jinrui wo Hakai suru. Sorera wa Saisei Dekinai.,8.02,Ni končana
+700,Restart wa Onaka wo Sukasete,8.02,1
+701,Tokidoki,8.02,Ni končana
+702,Noragami: Shuuishuu,8.02,Ni končana
+703,Vampire Juujikai,8.02,9
+704,Gokinjo Monogatari,8.02,7
+705,Hidamari Sketch,8.02,Ni končana
+706,Boku no Hatsukoi wo Kimi ni Sasagu,8.02,12
+707,Seiyuu Ka!,8.02,12
+708,Watashi no Shiawase na Kekkon,8.02,Ni končana
+709,The Male Lead's Little Lion Daughter,8.02,Ni končana
+710,Killer Crush,8.02,Ni končana
+711,Houkago Kitaku Biyori,8.02,Ni končana
+712,Tsubaki-chou Lonely Planet,8.01,14
+713,Ao no Flag,8.01,8
+714,Senryuu Shoujo,8.01,13
+715,Kokoro Connect,8.01,11
+716,Voynich Hotel,8.01,3
+717,Saint Seiya: The Lost Canvas - Meiou Shinwa Gaiden,8.01,16
+718,Chichikogusa,8.01,8
+719,Kakeochi Girl,8.01,3
+720,Josee to Tora to Sakana-tachi,8.01,2
+721,Tekkon Kinkreet,8.01,3
+722,Gosick,8.01,9
+723,Detroit Metal City,8.01,10
+724,Worst,8.01,33
+725,Ningen Shikkaku,8.01,3
+726,Omoide Emanon,8.01,1
+727,Tokyo Ghoul,8.01,3
+728,Kono Subarashii Sekai ni Shukufuku wo!,8.01,Ni končana
+729,Re:Zero kara Hajimeru Isekai Seikatsu: Dai-2 Shou - Yashiki no Isshuukan-hen,8.01,5
+730,Fate/strange Fake,8.01,Ni končana
+731,Imouto sae Ireba Ii.,8.01,14
+732,Aoharu x Kikanjuu,8.00,18
+733,Rokujouma no Shinryakusha!?,8.00,Ni končana
+734,Colette wa Shinu Koto ni Shita,8.00,20
+735,Boku no Hero Academia,8.00,42
+736,Log Horizon,8.00,Ni končana
+737,Surviving Romance,8.00,7
+738,Our Secret Alliance,8.00,Ni končana
+739,Sensou Kyoushitsu,8.00,Ni končana
+740,Usemono Yado,8.00,3
+741,Kono Subarashii Sekai ni Shukufuku wo! Spin-off: Kono Kamen no Akuma ni Soudan wo!,8.00,1
+742,Saihate no Paladin,8.00,Ni končana
+743,Saiyuuki,8.00,9
+744,MeruPuri: Märchen☆Prince,8.00,4
+745,Sunadokei,8.01,10
+746,Shoukoku no Altair,8.00,27
+747,Toradora!,8.00,Ni končana
+748,Toshokan Sensou: Love & War,8.00,15
+749,Uruwashi no Yoi no Tsuki,8.00,Ni končana
+750,Itou Junji Jisen Kessakushuu,8.00,1
+751,Viral Hit,7.99,Ni končana
+752,Positively Yours,7.99,8
+753,Maybe Meant to Be,7.99,Ni končana
+754,Kanata no Astra,7.99,5
+755,"Doukyonin wa Hiza, Tokidoki, Atama no Ue.",7.99,Ni končana
+756,Chi no Wadachi,7.99,17
+757,Shigeshoushi,7.99,7
+758,Id,7.99,29
+759,Kingyosou,7.99,2
+760,Golden Days,7.99,8
+761,Sumire♡16-sai!!,7.99,5
+762,Giant Killing,7.99,Ni končana
+763,Seitokai Yakuindomo,7.99,22
+764,Mahou Shoujo Madoka★Magica,7.99,2
+765,Konya mo Nemurenai,7.99,3
+766,Chuunibyou demo Koi ga Shitai!,7.99,4
+767,Ajin,7.99,17
+768,Sono Bisque Doll wa Koi wo Suru,7.99,Ni končana
+769,Fools,7.99,4
+770,"Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",7.99,Ni končana
+771,Doupo Cangqiong,7.99,Ni končana
+772,Higurashi no Naku Koro ni - Dai 2-wa: Watanagashi-hen,7.98,2
+773,Shinigami wo Tabeta Shoujo,7.98,2
+774,Overlord,7.98,19
+775,Ranma ½,7.98,38
+776,Kekkaishi,7.98,35
+777,Life,7.98,20
+778,"""Bungaku Shoujo"" Series",7.98,8
+779,Mudazumonaki Kaikaku,7.98,16
+780,Secret Lady,7.98,Ni končana
+781,The Perks of Being a Villainess,7.98,Ni končana
+782,Bocchi the Rock! Gaiden: Hiroi Kikuri no Fukazake Nikki,7.98,Ni končana
+783,4 Cut Hero,7.98,Ni končana
+784,Lookism,7.98,Ni končana
+785,Hypnosis Mic: Before the Battle - The Dirty Dawg,7.98,4
+786,Wind Breaker,7.98,Ni končana
+787,Hori-san to Miyamura-kun,7.98,10
+788,Buttobi Itto,7.98,26
+789,"Maoyuu Maou Yuusha: 'Kono Ware no Mono to Nare, Yuusha yo' 'Kotowaru!'",7.97,18
+790,Steins;Gate: Onshuu no Brownian Motion,7.97,2
+791,10 Dance,7.97,Ni končana
+792,Dr. Frost,7.97,Ni končana
+793,Yahari Ore no Seishun Love Comedy wa Machigatteiru.: Monologue,7.97,22
+794,"Natsu e no Tunnel, Sayonara no Deguchi: Gunjou",7.97,4
+795,The Broken Ring: This Marriage Will Fail Anyway,7.97,Ni končana
+796,Murderous Lewellyn's Candlelit Dinner,7.97,6
+797,Tokyo Babylon,7.97,7
+798,School Rumble,7.97,22
+799,Mekakushi no Kuni,7.97,9
+800,Bokura ga Ita,7.97,16
+801,Kaijuu no Kodomo,7.97,5
+802,Strobe Edge,7.97,10
+803,Code Geass: Hangyaku no Lelouch,7.97,5
+804,D-Frag!,7.97,Ni končana
+805,Odd Girl Out,7.97,Ni končana
+806,Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Kizokuin Gaiden,7.97,1
+807,Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken,7.97,Ni končana
+808,Weak Hero,7.96,Ni končana
+809,Unnamed Memory,7.96,6
+810,My Life as a Loser,7.96,Ni končana
+811,Operation: True Love,7.96,Ni končana
+812,Jitsu wa Watashi wa,7.96,22
+813,Comic Showa-shi,7.96,8
+814,Sword Art Online,7.96,Ni končana
+815,Yowamushi Pedal,7.96,Ni končana
+816,Sakurasou no Pet na Kanojo,7.96,13
+817,Cheese in the Trap Season 1,7.96,6
+818,Senyuu.,7.96,2
+819,Kanshikan Tsunemori Akane,7.96,6
+820,Yamato Nadeshiko Shichihenge♥,7.96,36
+821,Tsuki no Shippo,7.96,15
+822,Penguin Kakumei,7.96,7
+823,Koukaku Kidoutai: The Ghost in the Shell,7.96,1
+824,Haruka na Machi e,7.96,2
+825,Nurarihyon no Mago,7.96,25
+826,Kattobi Itto,7.96,46
+827,Super Lovers,7.96,Ni končana
+828,Skill of Lure,7.96,7
+829,Tsuki ga Michibiku Isekai Douchuu,7.96,Ni končana
+830,Sachi-iro no One Room,7.96,11
+831,Queen's Quality,7.95,Ni končana
+832,Bokutachi ga Yarimashita,7.95,9
+833,Niehime to Kemono no Ou,7.95,15
+834,Kimi no Na wa. Another Side: Earthbound,7.95,1
+835,No Game No Life: Practical War Game,7.95,1
+836,Hellper,7.95,18
+837,Saenai Heroine no Sodatekata: Koisuru Metronome,7.95,10
+838,Girls & Panzer: Pravda Senki,7.95,5
+839,The Fable: The Second Contact,7.95,9
+840,Akane-banashi,7.95,Ni končana
+841,Blue Lock: Episode Nagi,7.95,Ni končana
+842,Usuzumi no Hate,7.95,Ni končana
+843,Boruto: Two Blue Vortex,7.95,Ni končana
+844,Kimi wa Pet,7.95,14
+845,Spiral: Suiri no Kizuna,7.95,15
+846,Cesare: Hakai no Souzousha,7.95,13
+847,Deep Love: Ayu no Monogatari,7.95,2
+848,Candy Candy,7.95,9
+849,Psyren,7.95,16
+850,Beast Master,7.95,2
+851,Beast Master,7.95,2
+852,Karneval,7.95,28
+853,Reimei no Arcana,7.95,13
+854,Himegimi to Sanbiki no Kemono,7.95,4
+855,Hellper,7.95,18
+856,Saenai Heroine no Sodatekata: Koisuru Metronome,7.95,10
+857,High School DxD DX,7.94,Ni končana
+858,Tensei Oujo to Tensai Reijou no Mahou Kakumei,7.94,Ni končana
+859,Doom Breaker,7.94,Ni končana
+860,Marriage of Convenience,7.94,Ni končana
+861,"Bungou Stray Dogs: Dazai, Chuuya, Juugosai",7.94,Ni končana
+862,Mother's Contract Marriage,7.94,Ni končana
+863,Yumi's Cells,7.94,13
+864,Tsukiatte Agetemo Ii kana,7.94,Ni končana
+865,Unholy Blood,7.94,8
+866,Boku no Hero Academia the Movie: Heroes:Rising,7.94,1
+867,A Business Proposal,7.94,10
+868,Maoujou de Oyasumi,7.94,Ni končana
+869,Trinity Blood: Rage Against the Moons,7.94,6
+870,Ludwig Kakumei,7.94,4
+871,Tenshi Nanka ja Nai,7.94,8
+872,Tengen Toppa Gurren Lagann,7.94,10
+873,Clannad: Tomoyo After,7.94,1
+874,Sasameki Koto,7.94,9
+875,Ruler of the Land,7.94,Ni končana
+876,Shinrei Tantei Yakumo,7.94,14
+877,Hajimari no Niina,7.94,4
+878,Toaru Majutsu no Index SS,7.94,2
+879,Hitori-tachi,7.93,1
+880,Tetsugaku Letra,7.93,6
+881,Hypnosis Mic: Division Rap Battle - side F.P & M,7.93,3
+882,Haikyuu-bu!!,7.93,Ni končana
+883,Gekijouban One Piece: Stampede,7.93,1
+884,Yoru wa Mijikashi Aruke yo Otome,7.93,1
+885,Ghost Teller,7.93,Ni končana
+886,"Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru",7.93,Ni končana
+887,Steins;Gate: Eigou Kaiki no Pandora,7.93,1
+888,Tate no Yuusha no Nariagari,7.93,Ni končana
+889,Namaikizakari.,7.93,23
+890,Teenage Mercenary,7.93,Ni končana
+891,My In-Laws are Obsessed with Me,7.93,Ni končana
+892,Revenge of the Baskerville Bloodhound,7.93,Ni končana
+893,Kobato.,7.93,6
+894,Nousatsu Junkie,7.93,16
+895,Karakuri Circus,7.93,43
+896,Dragon Quest: Dai no Daibouken,7.93,37
+897,Shi ga Futari wo Wakatsu made,7.93,26
+898,Black Jack ni Yoroshiku,7.93,13
+899,Kubikiri Asa,7.93,10
+900,Crayon Shin-chan,7.93,50
+901,Bartender,7.93,21
+902,Deadman Wonderland,7.93,13
+903,½ Prince,7.93,9
+904,Zelda no Densetsu: Twilight Princess,7.92,11
+905,Hokuhokusei ni Kumo to Ike,7.92,Ni končana
+906,Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka? Ex,7.92,1
+907,Rakudai Kishi no Cavalry,7.92,19
+908,Be Blues! Ao ni Nare,7.92,49
+909,GTO: Paradise Lost,7.92,Ni končana
+910,Iris Zero,7.92,Ni končana
+911,Soredemo Sekai wa Utsukushii,7.92,25
+912,Kyoukai no Kanata,7.92,3
+913,Sword Art Online: Progressive,7.92,7
+914,Kono Subarashii Sekai ni Shukufuku wo! Extra: Ano Orokamono ni mo Kyakkou wo!,7.92,7
+915,Fukakai na Boku no Subete wo,7.92,5
+916,Shinsekai yori,7.92,2
+917,Spy x Family: Kazoku no Shouzou,7.92,1
+918,Mahou Sensei Negima!,7.92,38
+919,Aqua,7.92,2
+920,Saver,7.92,17
+921,Shiki,7.92,11
+922,Kiss yori mo Hayaku,7.92,12
+923,Hyakki Yakoushou,7.92,Ni končana
+924,Eien no With,7.92,1
+925,Clannad: Hikaru Mimamoru Sakamichi de,7.92,2
+926,L Change the WorLd,7.92,1
+927,Kara no Kyoukai: Mirai Fukuin - The Garden of Sinners/Recalled Out Summer,7.92,1
+928,Doraemon Plus,7.92,6
+929,Bokura no Kiseki,7.92,Ni končana
+930,Pigpen,7.92,Ni končana
+931,The Top Dungeon Farmer,7.92,Ni končana
+932,The Guild Member Next Door,7.92,Ni končana
+933,Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e: 2-nensei-hen,7.91,Ni končana
+934,Mushoku Tensei: Isekai Ittara Honki Dasu - Shitsui no Majutsushi-hen,7.91,Ni končana
+935,Goukon ni Ittara Onna ga Inakatta Hanashi,7.91,Ni končana
+936,Unintentional Love Story,7.91,6
+937,Solo Leveling Side Story,7.91,1
+938,Angel Beats!: Heaven's Door,7.91,11
+939,Byousoku 5 Centimeter,7.91,2
+940,Rockman Gigamix,7.91,3
+941,Seireitsukai no Blade Dance,7.91,20
+942,Kagerou Daze,7.91,13
+943,Oomuro-ke,7.91,Ni končana
+944,Shokugeki no Souma,7.91,36
+945,Fire Punch,7.91,8
+946,5-toubun no Hanayome,7.91,14
+947,Maiko-san Chi no Makanai-san,7.91,Ni končana
+948,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria,7.91,Ni končana
+949,Kobayashi-san Chi no Maid Dragon,7.91,Ni končana
+950,Ookami Shounen wa Kyou mo Uso wo Kasaneru,7.91,5
+951,Maiko-san Chi no Makanai-san,7.91,Ni končana
+952,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria,7.91,Ni končana
+953,Kobayashi-san Chi no Maid Dragon,7.91,Ni končana
+954,Ookami Shounen wa Kyou mo Uso wo Kasaneru,7.91,5
+955,Takane to Hana,7.91,18
+956,Angel Beats!: Heaven's Door,7.91,11
+957,Byousoku 5 Centimeter,7.91,2
+958,Rockman Gigamix,7.91,3
+959,Seireitsukai no Blade Dance,7.91,20
+960,Kagerou Daze,7.91,13
+961,Oomuro-ke,7.91,Ni končana
+962,Shokugeki no Souma,7.91,36
+963,Goblin Slayer Gaiden: Year One,7.91,Ni končana
+964,Kimi to Natsu no Naka,7.91,2
+965,Kubo-san wa Mob wo Yurusanai,7.91,12
+966,Sayonara Rose Garden,7.91,3
+967,Dark Gathering,7.90,Ni končana
+968,Saya no Uta,7.90,1
+969,Ousama Ranking,7.90,Ni končana
+970,One Piece Novel: A,7.90,2
+971,Tomo-chan wa Onnanoko!,7.90,8
+972,My Home Hero,7.90,26
+973,Murim Login,7.90,Ni končana
+974,"Tsuihou sareru Tabi ni Skill wo Te ni Ireta Ore ga, 100 no Isekai de 2-shuume Musou",7.90,Ni končana
+975,Ichigo Mashimaro,7.90,Ni končana
+976,Kitchen no Ohimesama,7.90,10
+977,V.B. Rose,7.90,14
+978,.hack//AI Buster,7.90,2
+979,"Densha Otoko: Net Hatsu, Kakueki Teisha no Love Story",7.90,3
+980,Special A,7.90,17
+981,07-Ghost,7.90,17
+982,Moe Kare!!,7.90,7
+983,Kouya no Tenshidomo,7.90,3
+984,Rozen Maiden (2008),7.90,10
+985,Decoration Disorder Disconnection,7.90,Ni končana
+986,Tobaku Datenroku Kaiji: Kazuya-hen,7.90,10
+987,Ouran Koukou Host Club,7.90,2
+988,Kimi ni Todoke,7.90,16
+989,Kiba no Tabishounin: The Arms Peddler,7.90,7
+990,Saiyaku wa Boku wo Suki Sugiru,7.90,Ni končana
+991,Arte,7.90,Ni končana
+992,Higurashi no Naku Koro ni Kai - Dai 1-wa: Meakashi-hen,7.90,2
+993,New Game!,7.89,13
+994,Out,7.89,Ni končana
+995,Donten ni Warau Gaiden,7.89,3
+996,The Perks of Being an S-Class Heroine,7.89,Ni končana
+997,Tokyo卍Revengers: Baji Keisuke kara no Tegami,7.89,Ni končana
+998,Naruto Gaiden: Uzu no Naka no Tsumujikaze,7.89,Ni končana
+999,Asper Kanojo,7.89,12
+1000,Cool Doji Danshi,7.89,Ni končana
+1001,Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo,7.89,Ni končana
+1002,Jinrui wo Metsubou sasete wa Ikemasen,7.89,4
+1003,Bokutachi wa Mada Aoku,7.89,1
+1004,Sword Art Online: Project Alicization,7.89,5
+1005,Sengoku Komachi Kuroutan: Noukou Giga,7.89,Ni končana
+1006,Tsuiraku JK to Haijin Kyoushi,7.89,20
+1007,New Game!,7.89,13
+1008,Out,7.89,Ni končana
+1009,Donten ni Warau Gaiden,7.89,3
+1010,Aishiteruze Baby★★,7.89,7
+1011,W-Juliet,7.89,14
+1012,Tenshi Kinryouku,7.89,20
+1013,Shin Petshop of Horrors,7.89,12
+1014,Sono Yubi dake ga Shitteiru,7.89,1
+1015,Vampire Hunter D,7.89,Ni končana
+1016,Marie no Kanaderu Ongaku,7.89,2
+1017,Mademoiselle Butterfly,7.89,2
+1018,Clannad,7.89,8
+1019,Shitsuji-sama no Okiniiri,7.89,21
+1020,Hakkenden: Touhou Hakken Ibun,7.89,Ni končana
+1021,Kimi no Iru Machi,7.89,27
+1022,Slayers,7.89,Ni končana
+1023,Moribito Series,7.89,10
+1024,Zetsuen no Tempest,7.89,10
+1025,The Perks of Being an S-Class Heroine,7.89,Ni končana
+1026,Tokyo卍Revengers: Baji Keisuke kara no Tegami,7.89,Ni končana
+1027,Naruto Gaiden: Uzu no Naka no Tsumujikaze,7.89,Ni končana
+1028,Gosu,7.88,Ni končana
+1029,The Superhuman Era,7.88,Ni končana
+1030,Boku no Papa to Papa no Hanashi,7.88,Ni končana
+1031,Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,7.88,2
+1032,Ningen Shikkaku,7.88,3
+1033,Kamisama ga Uso wo Tsuku.,7.88,1
+1034,Danganronpa Kirigiri,7.88,7
+1035,Hokuou Kizoku to Moukinzuma no Yukiguni Karigurashi,7.88,10
+1036,Mieruko-chan,7.88,Ni končana
+1037,Maou no Musume wa Yasashisugiru!!,7.88,Ni končana
+1038,Boys Run the Riot,7.88,4
+1039,Restart wa Tadaima no Ato de,7.88,1
+1040,Saishuu Heiki Kanojo,7.88,7
+1041,Hakushaku Cain Series,7.88,5
+1042,Kagen no Tsuki,7.88,3
+1043,Uragiri wa Boku no Namae wo Shitteiru,7.88,13
+1044,Tobaku Haouden Zero,7.88,8
+1045,Hetalia Axis Powers,7.88,6
+1046,Bambino!,7.88,15
+1047,Baka to Test to Shoukanjuu,7.88,18
+1048,Sousei no Onmyouji,7.88,Ni končana
+1049,Fairy Tail Zerø,7.88,1
+1050,Ame no Hi no Iris,7.87,1
+1051,The Last: Naruto the Movie,7.87,1
+1052,Gekkou,7.87,1
+1053,No Game No Life,7.87,2
+1054,Bleach,7.87,74
+1055,Deep Love: Pao no Monogatari,7.87,2
+1056,Shanaou Yoshitsune,7.87,22
+1057,One Thousand and One Nights,7.87,11
+1058,Saijou no Meii,7.87,11
+1059,½ Prince,7.87,16
+1060,Shinrei Tantei Yakumo: Akai Hitomi wa Shitteiru,7.87,2
+1061,Ao no Exorcist,7.87,Ni končana
+1062,Kiichi VS,7.87,11
+1063,Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen Dai 2-bu - Hon no Tame nara Miko ni Naru!,7.87,Ni končana
+1064,Gomashio to Pudding,7.87,3
+1065,Ryoushin no Shakkin wo Katagawari shite Morau Jouken wa Nihonichi Kawaii Joshikousei to Issho ni Kurasu Koto deshita.,7.87,Ni končana
+1066,Shinigami Bocchan to Kuro Maid,7.86,16
+1067,Tenseisha no Watashi ni Idondekuru Mubou de Yuubou na Shoujo no Hanashi,7.86,3
+1068,Yuusha Goikkou no Kaerimichi,7.86,Ni končana
+1069,Otome Game Sekai wa Mob ni Kibishii Sekai desu,7.86,13
+1070,A Good Day to Be a Dog,7.86,9
+1071,Isekai Ojisan,7.86,Ni končana
+1072,Toorigakari ni One Point Advice shiteiku Type no Yankee,7.86,8
+1073,Gakkougurashi! Otayori,7.86,1
+1074,Hanazakari no Kimitachi e: After School,7.86,1
+1075,Kyou no Kira-kun,7.86,9
+1076,Flying Witch,7.86,Ni končana
+1077,Kagami no Kojou,7.86,1
+1078,Return of the Mad Demon,7.86,Ni končana
+1079,Duty After School,7.86,5
+1080,Gangsta:Cursed.: EP_Marco Adriano,7.86,5
+1081,Mahou Shoujo Ikusei Keikaku,7.86,Ni končana
+1082,Oushitsu Kyoushi Heine,7.86,17
+1083,Ao Haru Ride: Awaken,7.86,Ni končana
+1084,Black Clover,7.86,Ni končana
+1085,Battle Royale,7.86,15
+1086,InuYasha,7.86,56
+1087,Houkago Hokenshitsu,7.86,10
+1088,Tenshi ja Nai!!,7.86,8
+1089,Hydra,7.86,3
+1090,Shakugan no Shana,7.86,22
+1091,Kieli: Shisha-tachi wa Kouya ni Nemuru,7.86,2
+1092,New York New York,7.86,4
+1093,Seikai no Monshou,7.86,3
+1094,Darren Shan,7.86,12
+1095,Shibatora,7.86,15
+1096,Trace,7.86,Ni končana
+1097,Hengoku no Schwester,7.86,6
+1098,Boku to Kimi no Taisetsu na Hanashi,7.86,7
+1099,"Shuumatsu Nani Shitemasu ka? Mou Ichido dake, Aemasu ka?",7.86,11
+1100,Takane no Ran-san,7.86,10
+1101,City,7.85,13
+1102,Kino no Tabi: The Beautiful World,7.85,8
+1103,The Villainess Turns the Hourglass,7.85,Ni končana
+1104,Mystic Prince,7.85,Ni končana
+1105,Super Secret,7.85,4
+1106,Reigen: Reikyuuchi Max 131 no Otoko,7.85,1
+1107,Kimi wa Tsukiyo ni Hikarikagayaku,7.85,2
+1108,Seishun Buta Yarou wa Petit Devil Kouhai no Yume wo Minai,7.85,2
+1109,Lonely Girl ni Sakaraenai,7.85,6
+1110,Wondance,7.85,Ni končana
+1111,Shinrei Tantei Yakumo,7.85,12
+1112,All Around Type-Moon,7.85,2
+1113,Campione!,7.85,21
+1114,Suzuka,7.85,18
+1115,Lucky☆Star,7.85,Ni končana
+1116,Hayate no Gotoku!,7.85,52
+1117,The World Is Mine,7.85,14
+1118,Hyouge Mono,7.86,25
+1119,Shin Tekken Chinmi,7.85,20
+1120,Little Busters!,7.85,2
+1121,Yongbi Bulpae,7.85,23
+1122,Ilegenes: Kokuyou no Kiseki,7.85,5
+1123,Azumanga Daioh: Hoshuu-hen,7.85,Ni končana
+1124,Sarashi Asobi,7.85,2
+1125,Inu x Boku SS,7.85,11
+1126,Douluo Dalu,7.85,Ni končana
+1127,Kuroko no Basket: Extra Game,7.85,2
+1128,High☆Speed!,7.84,2
+1129,Rengoku ni Warau,7.84,14
+1130,Kamisu Reina Series,7.84,2
+1131,K: Lost Small World,7.84,1
+1132,Kimi wa Natsu no Naka,7.84,1
+1133,Uramichi Oniisan,7.84,Ni končana
+1134,Sewayaki Kitsune no Senko-san,7.84,Ni končana
+1135,Giji Harem,7.84,6
+1136,Kimi ni wa Todokanai.,7.84,Ni končana
+1137,"Ichido dake demo, Koukai Shitemasu.",7.84,3
+1138,Devil May Cry 5: Visions of V,7.84,5
+1139,Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen Dai 3-bu - Ryouchi ni Hon wo Hirogeyou!,7.84,Ni končana
+1140,"Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story",7.84,Ni končana
+1141,Plastic Memories: Say to Good-bye,7.84,3
+1142,Gekijouban Gintama: Kanketsu-hen - Yorozuya yo Eien Nare,7.84,1
+1143,Ganbare! Nakamura-kun!!,7.84,1
+1144,Kakegurui Twin,7.84,15
+1145,Gekijouban Sword Art Online: Ordinal Scale,7.84,5
+1146,Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...,7.84,Ni končana
+1147,Make Heroine ga Oosugiru!,7.84,Ni končana
+1148,Bleach: Gokui Meimei-hen,7.84,Ni končana
+1149,Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta,7.84,Ni končana
+1150,Medical Return,7.84,Ni končana
+1151,Lout of Count's Family,7.84,Ni končana
+1152,Plastic Memories: Say to Good-bye,7.84,3
+1153,Gekijouban Gintama: Kanketsu-hen - Yorozuya yo Eien Nare,7.84,1
+1154,Ganbare! Nakamura-kun!!,7.84,1
+1155,Kakegurui Twin,7.84,15
+1156,Gekijouban Sword Art Online: Ordinal Scale,7.84,5
+1157,Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...,7.84,Ni končana
+1158,Kimi wa Natsu no Naka,7.84,1
+1159,Uramichi Oniisan,7.84,Ni končana
+1160,Sewayaki Kitsune no Senko-san,7.84,Ni končana
+1161,Giji Harem,7.84,6
+1162,Kimi ni wa Todokanai.,7.84,Ni končana
+1163,"Ichido dake demo, Koukai Shitemasu.",7.84,3
+1164,Devil May Cry 5: Visions of V,7.84,5
+1165,Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen Dai 3-bu - Ryouchi ni Hon wo Hirogeyou!,7.84,Ni končana
+1166,"Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story",7.84,Ni končana
+1167,Densetsu no Yuusha no Densetsu,7.84,11
+1168,Maoyuu Maou Yuusha,7.84,5
+1169,Another,7.84,1
+1170,Rec: Kimi ga Naita Hi,7.84,1
+1171,K Side:Red,7.84,1
+1172,"Inari, Konkon, Koi Iroha.",7.83,10
+1173,Durarara!! Saika-hen,7.83,3
+1174,Kidou Senshi Gundam Thunderbolt,7.83,Ni končana
+1175,"Gate: Jieitai Kanochi nite, Kaku Tatakaeri",7.83,Ni končana
+1176,Madan no Ou to Vanadis,7.83,18
+1177,Murasakiiro no Qualia,7.83,3
+1178,My Blasted Reincarnated Life,7.83,Ni končana
+1179,For My Derelict Favorite,7.83,Ni končana
+1180,The 100th Regression of the Max-Level Player,7.83,Ni končana
+1181,Orange Marmalade,7.83,8
+1182,Kasane,7.83,14
+1183,Mahouka Koukou no Rettousei: Tsuioku-hen,7.83,3
+1184,Katayoku no Labyrinth,7.83,10
+1185,The Friendly Winter,7.83,2
+1186,The Summit,7.83,7
+1187,Higurashi no Naku Koro ni: Himatsubushi-hen,7.83,2
+1188,Orpheus no Mado,7.83,18
+1189,IS: Otoko demo Onna demo Nai Sei,7.83,17
+1190,Baki: New Grappler Baki,7.83,31
+1191,Ushio to Tora,7.83,33
+1192,Jin,7.83,20
+1193,Hammer Session!,7.83,11
+1194,Shinryaku! Ika Musume,7.83,22
+1195,Durarara!!,7.83,4
+1196,Darker than Black: Shikkoku no Hana,7.83,4
+1197,Nora to Zassou,7.83,4
+1198,"Fuufu Ijou, Koibito Miman.",7.83,Ni končana
+1199,Futari Ashita mo Sorenari ni,7.83,5
+1200,Meitantei Conan: Keisatsu Gakkou-hen - Wild Police Story,7.83,2
+1201,Rebuild World,7.83,Ni končana
+1202,My Life as an Internet Novel,7.83,Ni končana
+1203,Watashi no Oshi wa Akuyaku Reijou.,7.83,Ni končana
+1204,Koiwazurai no Ellie,7.83,12
+1205,Namidaame to Serenade,7.83,Ni končana
+1206,Hanakoi Tsurane,7.83,10
+1207,Usotoki Rhetoric,7.83,10
+1208,Douluo Dalu II: Jueshi Tangmen,7.83,Ni končana
+1209,Migi to Dali,7.83,7
+1210,Pinocchio,7.82,7
+1211,Steins;Gate: Mugen Enten no Arc Light,7.82,1
+1212,Lord El-Melloi II-sei no Jikenbo,7.82,10
+1213,Golden Time,7.82,8
+1214,To LOVE-Ru Darkness,7.82,18
+1215,Sakurasou no Pet na Kanojo,7.82,8
+1216,Kamisama no Iutoori 2,7.82,21
+1217,The Swordmaster's Son,7.82,Ni končana
+1218,Happily Ever Afterwards,7.82,Ni končana
+1219,Lout of Count's Family,7.82,Ni končana
+1220,Descended from Divinity,7.82,Ni končana
+1221,Death's Game,7.82,6
+1222,Shujinkou Nikki,7.82,Ni končana
+1223,Kagurabachi,7.82,Ni končana
+1224,Unlucky Mansion,7.82,Ni končana
+1225,50cm no Isshou,7.82,3
+1226,Persona 5: Mementos Mission,7.82,3
+1227,Karasugaoka Don't Be Shy!!,7.82,2
+1228,School Zone,7.82,5
+1229,Seishun Buta Yarou wa Logical Witch no Yume wo Minai,7.82,2
+1230,Fool Night,7.82,Ni končana
+1231,Dekiru Neko wa Kyou mo Yuuutsu,7.82,Ni končana
+1232,Hoshi no Koe,7.82,1
+1233,Chi's Sweet Home,7.82,12
+1234,Top Secret,7.82,12
+1235,Junjou Mistake,7.82,1
+1236,Kimi ni shika Kikoenai,7.82,1
+1237,Arakawa Under the Bridge,7.82,15
+1238,ES: Eternal Sabbath,7.81,8
+1239,Akuma de Sourou,7.81,11
+1240,Rasetsu no Hana,7.81,9
+1241,Kamen Rider Spirits,7.81,16
+1242,Hanatsukihime,7.81,2
+1243,Yume-iro Pâtissière,7.81,12
+1244,Suki tte Ii na yo.,7.81,18
+1245,Touhou Kourindou: Curiosities of Lotus Asia.,7.81,1
+1246,Itsuwaribito◆Utsuho◆,7.81,23
+1247,Mayo Chiki!,7.81,12
+1248,Akame ga Kill!,7.81,15
+1249,Oda Nobuna no Yabou,7.81,22
+1250,My Young Cat and My Old Dog,7.81,3
+1251,Overgeared,7.81,Ni končana
+1252,Les Misérables,7.81,8
+1253,Kishibe Rohan wa Ugokanai,7.81,Ni končana
+1254,Durarara!! SH,7.81,4
+1255,Kenrantaru Grande Scène,7.81,Ni končana
+1256,K: Lost Small World,7.81,3
+1257,Shingeki no Kyojin: Lost Girls,7.81,1
+1258,ES: Eternal Sabbath,7.81,8
+1259,Akuma de Sourou,7.81,11
+1260,Rasetsu no Hana,7.81,9
+1261,Kamen Rider Spirits,7.81,16
+1262,Hanatsukihime,7.81,2
+1263,Yume-iro Pâtissière,7.81,12
+1264,Suki tte Ii na yo.,7.81,18
+1265,Touhou Kourindou: Curiosities of Lotus Asia.,7.81,1
+1266,Itsuwaribito◆Utsuho◆,7.81,23
+1267,Nanbaka,7.81,Ni končana
+1268,Kageki Shoujo!!,7.81,Ni končana
+1269,Goblin Slayer,7.81,Ni končana
+1270,Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen Dai 1-bu - Hon ga Nai nara Tsukureba Ii!,7.81,7
+1271,Isekai Goumon-hime,7.81,10
+1272,"Mairimashita, Senpai",7.81,10
+1273,Owari no Seraph: Kyuuketsuki Mikaela no Monogatari,7.80,2
+1274,7th,7.80,Ni končana
+1275,Emiya-san Chi no Kyou no Gohan,7.80,Ni končana
+1276,Tokyo卍Revengers,7.80,31
+1277,Hidamari ga Kikoeru: Shunkashuutou,7.80,Ni končana
+1278,Chainsaw Man: Buddy Stories,7.80,1
+1279,"Mikadono Sanshimai wa Angai, Choroi.",7.80,Ni končana
+1280,Yamada to Kase-san.,7.80,Ni končana
+1281,Revelation of Youth,7.80,Ni končana
+1282,To Be an Actor,7.80,Ni končana
+1283,Saihate no Paladin,7.80,Ni končana
+1284,Fate/Grand Order: Epic of Remnant - Ashu Tokuiten III/Ashu Heikou Sekai - Shizan Ketsuga Butai Shimousa no Kuni - Eirei Kengou Nanaban Shoubu,7.80,Ni končana
+1285,Out of Control,7.80,Ni končana
+1286,Isekai no Sata wa Shachiku Shidai,7.80,Ni končana
+1287,Ookami no Kawa wo Kabutta Hitsuji Hime,7.80,5
+1288,Lucky Dog 1 Blast,7.80,9
+1289,JoJo's Bizarre Adventure: Over Heaven,7.80,1
+1290,Elfen Lied,7.80,12
+1291,Katsu!,7.80,16
+1292,Saiunkoku Monogatari,7.80,9
+1293,Yumekui Kenbun,7.80,9
+1294,Umineko no Naku Koro ni - Episode 1: Legend of the Golden Witch,7.80,4
+1295,Kiss/Hug,7.80,3
+1296,Ikigami,7.80,10
+1297,Ginga Tetsudou 999 (1996),7.80,7
+1298,Hanbun no Tsuki ga Noboru Sora,7.80,8
+1299,Drifters,7.80,Ni končana
+1300,Doubutsu no Kuni,7.80,14
+1301,Smells Like Green Spirit,7.80,2
+1302,Higurashi no Naku Koro ni Kai - Dai 2-wa: Tsumihoroboshi-hen,7.80,2
+1303,Dame na Watashi ni Koishite Kudasai,7.79,10
+1304,"Gate: Jieitai Kanochi nite, Kaku Tatakaeri",7.79,10
+1305,Sankaku Mado no Sotogawa wa Yoru,7.79,10
+1306,Rokudenashi Majutsu Koushi to Akashic Records,7.79,24
+1307,Sword Art Online: Mother's Rosario,7.79,3
+1308,Higurashi no Naku Koro ni Kai - Dai 4-wa: Matsuribayashi-hen,7.79,3
+1309,7 Seeds Gaiden,7.79,1
+1310,Kimi wa Tsukiyo ni Hikarikagayaku,7.79,1
+1311,Shousetsu Tenki no Ko,7.79,1
+1312,Moon You,7.79,4
+1313,Kimi ni Todoke Bangai-hen: Unmei no Hito,7.79,3
+1314,Zoku Mahouka Koukou no Rettousei: Magian Company,7.79,Ni končana
+1315,Taste of Illness,7.79,3
+1316,Koushaku Reijou no Tashinami,7.79,8
+1317,"Kumo desu ga, Nani ka?",7.79,Ni končana
+1318,Watashi no Shounen,7.79,9
+1319,Toaru Kagaku no Railgun Gaiden: Astral Buddy,7.79,4
+1320,"Tensei shite High Elf ni Narimashita ga, Slow Life wa 120-nen de Akimashita",7.79,Ni končana
+1321,Nigoru Hitomi de Nani wo Negau: Highserk Senki,7.79,Ni končana
+1322,Beware the Villainess!,7.79,Ni končana
+1323,Kill the Villainess,7.79,Ni končana
+1324,Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san,7.79,Ni končana
+1325,Tower Dungeon,7.79,Ni končana
+1326,Kamikaze Kaitou Jeanne,7.79,7
+1327,Black Cat,7.79,20
+1328,Hybrid Child,7.79,1
+1329,Trinity Blood,7.79,21
+1330,Kodomo no Jikan,7.79,13
+1331,Kiniro no Corda,7.79,17
+1332,Higurashi no Naku Koro ni: Onisarashi-hen,7.79,2
+1333,.hack//Another Birth,7.79,4
+1334,Magic Kaito,7.79,Ni končana
+1335,Q.E.D.: Shoumei Shuuryou,7.79,50
+1336,Yankee-kun to Megane-chan,7.79,23
+1337,Jormungand,7.79,11
+1338,Hime-chan no Ribbon,7.79,10
+1339,Koukaku Kidoutai: Stand Alone Complex,7.79,3
+1340,Jinjuu Houretsuden,7.79,13
+1341,Aoki Hagane no Arpeggio,7.79,Ni končana
+1342,Junketsu Drop,7.79,1
+1343,Kuroko no Basket: Replace,7.79,6
+1344,Mondaiji-tachi ga Isekai kara Kuru Sou desu yo? Z,7.79,3
+1345,Solo Leveling: Ragnarok,7.79,Ni končana
+1346,Tsuki ga Michibiku Isekai Douchuu,7.78,Ni končana
+1347,Ayakashi Ko,7.78,8
+1348,Touhou Sangetsusei: Visionary Fairies in Shrine.,7.78,3
+1349,Jaku-Chara Tomozaki-kun,7.78,Ni končana
+1350,Melancholia,7.78,2
+1351,The Infinite Mage,7.78,Ni končana
+1352,Natsume Yuujinchou,7.78,Ni končana
+1353,Shinohayu: The Dawn of Age,7.78,Ni končana
+1354,Mahouka Koukou no Rettousei: Kyuukousen-hen,7.78,5
+1355,Higurashi no Naku Koro ni Kai - Dai 3-wa: Minagoroshi-hen,7.78,2
+1356,Rikudou,7.78,23
+1357,Urara Meirochou,7.78,7
+1358,Love Hina,7.78,14
+1359,Air Gear,7.78,37
+1360,Chobits,7.78,8
+1361,Alive: Saishuu Shinkateki Shounen,7.78,21
+1362,Kingdom Hearts II,7.78,10
+1363,Tomie,7.78,3
+1364,Goong,7.78,27
+1365,Switch,7.78,13
+1366,Tegamibachi,7.78,20
+1367,W-Juliet II,7.78,Ni končana
+1368,Nanairo Sekai,7.78,Ni končana
+1369,Asterisk,7.78,8
+1370,Sono Yubi dake ga Shitteiru,7.78,5
+1371,Touhou Bougetsushou: Cage in Lunatic Runagate.,7.78,1
+1372,Franken Fran,7.78,8
+1373,Kon no Ki Konoha,7.78,Ni končana
+1374,Hapi Mari: Happy Marriage!?,7.78,10
+1375,Medaka Box,7.78,22
+1376,Yumekui Merry,7.78,24
+1377,Kenji,7.78,21
+1378,Love in the Mask,7.78,32
+1379,Kindaichi Shounen no Jikenbo: Case Series,7.78,10
+1380,Planetarian: Chiisana Hoshi no Yume,7.78,1
+1381,Bonnouji,7.78,3
+1382,Tsuki ga Michibiku Isekai Douchuu,7.78,Ni končana
+1383,Koushaku Reijou no Tashinami,7.78,8
+1384,Ayakashi Ko,7.78,8
+1385,Touhou Sangetsusei: Visionary Fairies in Shrine.,7.78,3
+1386,Jaku-Chara Tomozaki-kun,7.78,Ni končana
+1387,Melancholia,7.78,2
+1388,Hananoi-kun to Koi no Yamai,7.78,Ni končana
+1389,Touhou Suichouka: Lotus Eater-tachi no Suisei,7.78,Ni končana
+1390,Kindan Shitei de Breakthrough: Boy Meets Satan,7.78,4
+1391,Chitose-kun wa Ramune Bin no Naka,7.78,Ni končana
+1392,Urasekai Picnic,7.77,Ni končana
+1393,Bungou Stray Dogs Gaiden: Ayatsuji Yukito vs. Kyougoku Natsuhiko,7.77,Ni končana
+1394,Brutal: Satsujin Keisatsukan no Kokuhaku,7.77,5
+1395,Hypnosis Mic: Division Rap Battle - side D.H & B.A.T,7.77,5
+1396,Rebuild World,7.77,Ni končana
+1397,Bambi to Dhole,7.77,5
+1398,Setoutsumi,7.77,8
+1399,Gunnm: Kasei Senki,7.77,Ni končana
+1400,Yume no Hashibashi,7.77,2
+1401,Setoutsumi,7.77,8
+1402,Gunnm: Kasei Senki,7.77,Ni končana
+1403,Charlotte,7.77,6
+1404,Poputepipikku,7.77,Ni končana
+1405,Asobi Asobase,7.77,15
+1406,Kimi no Na wa. Another Side: Earthbound,7.77,2
+1407,Yume no Hashibashi,7.77,2
+1408,Silent Witch: Chinmoku no Majo no Kakushigoto,7.77,Ni končana
+1409,The Reaper,7.77,Ni končana
+1410,Surviving the Game as a Barbarian,7.77,Ni končana
+1411,Mo Dao Zu Shi Fanwai Ji,7.77,1
+1412,Not Your Typical Reincarnation Story,7.77,Ni končana
+1413,Urasekai Picnic,7.77,Ni končana
+1414,Bungou Stray Dogs Gaiden: Ayatsuji Yukito vs. Kyougoku Natsuhiko,7.77,Ni končana
+1415,Brutal: Satsujin Keisatsukan no Kokuhaku,7.77,5
+1416,Hypnosis Mic: Division Rap Battle - side D.H & B.A.T,7.77,5
+1417,Rebuild World,7.77,Ni končana
+1418,Dorabase: Doraemon Super Baseball Gaiden,7.77,23
+1419,Tokyo Ravens,7.77,Ni končana
+1420,Hataraku Maou-sama!,7.77,Ni končana
+1421,Ookami-heika no Hanayome,7.76,19
+1422,RRR,7.76,10
+1423,Gunka no Baltzar,7.76,Ni končana
+1424,Recipe no Oujisama,7.76,1
+1425,To LOVE-Ru Darkness: Little Sisters,7.76,1
+1426,Steins;Gate: Youen no Valhalla,7.76,1
+1427,Durarara!! Kokinzoku-hen,7.76,3
+1428,All You Need Is Kill,7.76,2
+1429,Narcissu,7.76,1
+1430,Tate no Yuusha no Nariagari,7.76,Ni končana
+1431,Koi wa Ameagari no You ni,7.76,10
+1432,Rii-chan,7.76,1
+1433,Rozen Maiden,7.76,8
+1434,Midori no Hibi,7.76,8
+1435,MAX Lovely!,7.76,5
+1436,Nazo no Kanojo X,7.76,12
+1437,Witch Hunter,7.76,Ni končana
+1438,Zero no Tsukaima,7.76,22
+1439,Zettai Heiwa Daisakusen,7.76,4
+1440,Shin Getter Robo,7.76,2
+1441,Persona 4,7.76,13
+1442,Monokuro Shounen Shoujo,7.76,12
+1443,Savage Garden,7.76,7
+1444,GE: Good Ending,7.76,16
+1445,Raise wa Tanin ga Ii,7.76,Ni končana
+1446,MagMell Shinkai Suizokukan,7.76,Ni končana
+1447,Manga de Wakaru! Fate/Grand Order,7.76,Ni končana
+1448,Ginga no Shinanai Kodomotachi e,7.76,2
+1449,Uchi no Musuko wa Tabun Gay,7.76,5
+1450,Star x Fanboy,7.76,4
+1451,Savage Garden,7.76,7
+1452,GE: Good Ending,7.76,16
+1453,Chi.: Chikyuu no Undou ni Tsuite,7.76,8
+1454,"Nee Nee, Nene-san.",7.76,Ni končana
+1455,Otome Game no Heroine de Saikyou Survival,7.76,Ni končana
+1456,Dreaming Freedom,7.76,Ni končana
+1457,The Novel's Extra,7.76,Ni končana
+1458,Toutou Cang Bu Zhu,7.76,Ni končana
+1459,Okosama Star,7.76,4
+1460,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka: Familia Chronicle - Episode Ryuu,7.76,1
+1461,Kyokou Suiri,7.75,Ni končana
+1462,Mahou Shoujo Madoka★Magica: Majuu-hen,7.75,3
+1463,Enen no Shouboutai,7.75,34
+1464,Karin wo Idaita Shoujo,7.75,3
+1465,Joshikousei no Mudazukai,7.75,Ni končana
+1466,Akebi-chan no Sailor-fuku,7.75,Ni končana
+1467,Shiro Seijo to Kuro Bokushi,7.75,Ni končana
+1468,Fate/Zero,7.75,14
+1469,Ad Astra: Scipio to Hannibal,7.75,13
+1470,Half & Half,7.75,2
+1471,Hinomaruzumou,7.75,28
+1472,Hetalia World☆Stars,7.75,Ni končana
+1473,Demi-chan wa Kataritai,7.75,11
+1474,Gachiakuta,7.75,Ni končana
+1475,Who Can Define Popularity?,7.75,Ni končana
+1476,Ending Maker,7.75,Ni končana
+1477,Isshou Senkin,7.75,Ni končana
+1478,Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.,7.75,6
+1479,Majo no Tabitabi,7.75,6
+1480,Tensura Nikki: Tensei shitara Slime Datta Ken,7.75,Ni končana
+1481,Ori no Naka no Soloist,7.75,3
+1482,"No, Youna.",7.75,Ni končana
+1483,Butai ni Sake!,7.75,3
+1484,Kaijuu 8-gou,7.75,Ni končana
+1485,Mairimashita! Iruma-kun Gaiden: Kalego-hen,7.75,1
+1486,Ichigo 100%,7.75,19
+1487,Jiraishin,7.75,19
+1488,Bitter Virgin,7.75,4
+1489,GunSmith Cats,7.75,8
+1490,Kirihito Sanka,7.75,2
+1491,Tantei Gakuen Q,7.75,22
+1492,You're So Cool,7.75,6
+1493,Toshokan Sensou,7.75,4
+1494,Umineko no Naku Koro ni - Episode 2: Turn of the Golden Witch,7.75,5
+1495,Warau Kanoko-sama,7.75,3
+1496,Running on Empty,7.75,2
+1497,Amanchu!,7.75,17
+1498,Not Simple,7.75,1
+1499,Yakusoku Siren,7.75,Ni končana
+1500,Aitsu no Daihonmei,7.75,Ni končana

@@ -1,0 +1,101 @@
+rank,naslov,ocena,deli,popularnost,žanri,revija
+1,Berserk,9.47,Ni končana,1,"['Action', 'Adventure', 'Award Winning', 'Drama', 'Fantasy', 'Horror', 'Supernatural']",Young Animal
+2,JoJo no Kimyou na Bouken Part 7: Steel Ball Run,9.31,24,24,"['Action', 'Adventure', 'Mystery', 'Supernatural']",Ultra Jump
+3,Vagabond,9.26,37,14,"['Action', 'Adventure', 'Award Winning']",Morning
+4,One Piece,9.22,Ni končana,4,"['Action', 'Adventure', 'Fantasy']",Shounen Jump (Weekly)
+5,Monster,9.16,18,29,"['Award Winning', 'Drama', 'Mystery']",Big Comic Original
+6,Slam Dunk,9.08,31,55,"['Award Winning', 'Sports']",Shounen Jump (Weekly)
+7,Vinland Saga,9.08,Ni končana,18,"['Action', 'Adventure', 'Award Winning', 'Drama']",Afternoon
+8,Tian Guan Cifu,9.08,6,1701,"['Action', 'Adventure', 'Boys Love', 'Supernatural']",Nismo našli revije
+9,Guimi Zhi Zhu,9.07,18,5030,"['Action', 'Mystery', 'Supernatural', 'Suspense']",Nismo našli revije
+10,Fullmetal Alchemist,9.04,27,20,"['Action', 'Adventure', 'Award Winning', 'Drama', 'Fantasy']",Shounen Gangan
+11,Omniscient Reader's Viewpoint,9.03,20,1360,"['Action', 'Adventure', 'Fantasy']",Nismo našli revije
+12,Grand Blue,9.03,Ni končana,48,['Comedy'],good! Afternoon
+13,Kingdom,9.01,Ni končana,53,"['Action', 'Award Winning']",Young Jump
+14,Oyasumi Punpun,9.00,13,8,"['Drama', 'Slice of Life']",Big Comic Spirits
+15,Houseki no Kuni,8.96,13,84,"['Action', 'Drama', 'Fantasy']",Afternoon
+16,Real,8.95,Ni končana,163,"['Award Winning', 'Drama', 'Sports']",Young Jump
+17,20th Century Boys,8.94,22,27,"['Award Winning', 'Drama', 'Mystery', 'Sci-Fi']",Big Comic Spirits
+18,Ashita no Joe,8.93,20,306,"['Drama', 'Slice of Life', 'Sports']",Shounen Magazine (Weekly)
+19,Monogatari Series: First Season,8.91,6,274,"['Action', 'Comedy', 'Mystery', 'Romance', 'Supernatural']",Mephisto
+20,Mo Dao Zu Shi,8.91,4,2703,"['Action', 'Adventure', 'Boys Love', 'Mystery', 'Supernatural']",Nismo našli revije
+21,Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,8.90,28,23,"['Award Winning', 'Comedy']",Young Jump
+22,Yotsuba to!,8.90,Ni končana,69,"['Award Winning', 'Comedy', 'Slice of Life']",Dengeki Daioh
+23,Monogatari Series: Second Season,8.89,6,786,"['Comedy', 'Drama', 'Mystery', 'Supernatural']",Nismo našli revije
+24,Mikkakan no Koufuku,8.88,1,572,['Drama'],Nismo našli revije
+25,Umineko no Naku Koro ni Chiru - Episode 8: Twilight of the Golden Witch,8.87,9,1089,"['Drama', 'Fantasy', 'Mystery', 'Supernatural']",Gangan Joker
+26,GTO,8.87,25,56,"['Action', 'Award Winning', 'Comedy', 'Drama', 'Ecchi']",Shounen Magazine (Weekly)
+27,Tian Guan Cifu,8.87,Ni končana,1576,"['Action', 'Adventure', 'Boys Love', 'Drama', 'Supernatural']",Nismo našli revije
+28,Koe no Katachi,8.86,7,25,"['Award Winning', 'Drama']",Shounen Magazine (Weekly)
+29,3-gatsu no Lion,8.86,Ni končana,227,"['Award Winning', 'Drama', 'Slice of Life']",Young Animal
+30,Haikyuu!!,8.85,45,34,"['Award Winning', 'Sports']",Shounen Jump (Weekly)
+31,Monogatari Series: Final Season,8.83,6,984,"['Comedy', 'Mystery', 'Supernatural']",Nismo našli revije
+32,Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e,8.83,14,174,['Drama'],Nismo našli revije
+33,86,8.82,Ni končana,421,"['Action', 'Drama', 'Sci-Fi']",Nismo našli revije
+34,Ookami to Koushinryou,8.82,Ni končana,249,"['Adventure', 'Drama', 'Fantasy', 'Romance', 'Supernatural']",Nismo našli revije
+35,Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e: 2-nensei-hen,8.82,Ni končana,477,['Drama'],Nismo našli revije
+36,Akatsuki no Yona,8.82,Ni končana,88,"['Action', 'Adventure', 'Fantasy', 'Romance']",Hana to Yume
+37,Mushoku Tensei: Isekai Ittara Honki Dasu,8.82,26,172,['Fantasy'],Nismo našli revije
+38,Kaze no Tani no Nausicaä,8.81,7,277,"['Action', 'Adventure', 'Award Winning', 'Fantasy', 'Supernatural']",Animage
+39,Sousou no Frieren,8.81,Ni končana,96,"['Adventure', 'Award Winning', 'Drama', 'Fantasy']",Shounen Sunday
+40,Nana,8.80,21,77,"['Award Winning', 'Drama', 'Romance']",Cookie
+41,Kokou no Hito,8.79,17,119,"['Award Winning', 'Drama', 'Sports']",Young Jump
+42,Re:Zero kara Hajimeru Isekai Seikatsu,8.79,Ni končana,224,"['Drama', 'Fantasy', 'Suspense']",Nismo našli revije
+43,"Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.",8.77,3,58,['Drama'],Shounen Jump+
+44,Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen,8.76,33,1239,['Fantasy'],Nismo našli revije
+45,Uchuu Kyoudai,8.76,Ni končana,488,"['Award Winning', 'Drama', 'Sci-Fi']",Morning
+46,Yahari Ore no Seishun Love Comedy wa Machigatteiru.,8.75,18,220,"['Comedy', 'Romance']",Nismo našli revije
+47,Made in Abyss,8.74,Ni končana,62,"['Adventure', 'Drama', 'Fantasy', 'Sci-Fi']",Web Comic Gamma
+48,Hunter x Hunter,8.74,Ni končana,22,"['Action', 'Adventure', 'Fantasy']",Shounen Jump (Weekly)
+49,Hajime no Ippo,8.73,Ni končana,167,"['Award Winning', 'Sports']",Shounen Magazine (Weekly)
+50,One Punch-Man,8.73,Ni končana,7,"['Action', 'Comedy']",Tonari no Young Jump
+51,The Greatest Estate Developer,8.73,Ni končana,659,"['Adventure', 'Comedy', 'Fantasy']",Naver Webtoon
+52,Dungeon Meshi,8.72,14,188,"['Comedy', 'Fantasy', 'Gourmet']",Harta
+53,Shoujo Shuumatsu Ryokou,8.71,6,218,"['Adventure', 'Award Winning', 'Slice of Life']",Kurage Bunch
+54,Mushishi,8.71,10,178,"['Award Winning', 'Fantasy', 'Mystery', 'Supernatural']",Afternoon
+55,Chainsaw Man,8.71,Ni končana,3,"['Action', 'Award Winning', 'Supernatural']",Shounen Jump+
+56,The Horizon,8.70,3,156,"['Adventure', 'Drama']",Comica
+57,Veil,8.70,Ni končana,1686,"['Romance', 'Slice of Life']",Nismo našli revije
+58,Utsuro no Hako to Zero no Maria,8.70,7,137,"['Action', 'Drama', 'Horror', 'Mystery', 'Romance', 'Supernatural', 'Suspense']",Nismo našli revije
+59,Kusuriya no Hitorigoto,8.69,Ni končana,1697,"['Drama', 'Mystery']",Nismo našli revije
+60,Death Note,8.69,12,13,"['Supernatural', 'Suspense']",Shounen Jump (Weekly)
+61,Beck,8.69,34,191,"['Award Winning', 'Drama', 'Romance']",Shounen Magazine (Monthly)
+62,Kono Oto Tomare!,8.69,Ni končana,388,['Drama'],Jump SQ.
+63,Dorohedoro,8.68,23,49,"['Action', 'Comedy', 'Fantasy', 'Horror']",Gessan
+64,Solo Leveling,8.67,Ni končana,5,"['Action', 'Adventure', 'Fantasy']",KakaoPage
+65,Bungou Stray Dogs: Beast,8.67,4,1249,"['Action', 'Mystery', 'Supernatural']",Shounen Ace
+66,Kaoru Hana wa Rin to Saku,8.67,Ni končana,256,"['Drama', Romance]",Magazine pocket
+67,Fata Morgana no Yakata: Anata no Genten ni Itaru Monogatari,8.66,5,5172,"['Drama', 'Horror', 'Mystery', 'Supernatural']",Nismo našli revije
+68,Yokohama Kaidashi Kikou,8.66,14,206,"['Award Winning', 'Sci-Fi', 'Slice of Life']",Afternoon
+69,Akira,8.66,6,91,"['Action', 'Award Winning', 'Sci-Fi']",Young Magazine (Weekly)
+70,Natsume Yuujinchou,8.66,Ni končana,383,"['Drama', 'Supernatural']",LaLa
+71,Yagate Kimi ni Naru,8.66,8,129,"['Drama', 'Girls Love']",Dengeki Daioh
+72,Kimi no Suizou wo Tabetai,8.65,1,2523,"['Drama', 'Romance']",Nismo našli revije
+73,Sayonara Eri,8.65,1,101,"['Drama']",Shounen Jump+
+74,Wind Breaker,8.64,Ni končana,304,"['Action', 'Drama', 'Sports']",Naver Webtoon
+75,ReLIFE,8.64,15,64,"['Comedy', 'Drama', 'Romance', 'Slice of Life']",comico
+76,Kozure Ookami,8.64,28,359,['Action'],Manga Action
+77,Zaregoto Series,8.64,Ni končana,762,"['Action', 'Drama', 'Mystery', 'Supernatural']",Nismo našli revije
+78,Gintama,8.63,77,148,"['Action', 'Comedy', 'Sci-Fi']",Shounen Jump (Weekly)
+79,Aria,8.63,12,459,"['Adventure', 'Comedy', 'Drama', 'Sci-Fi', 'Slice of Life']",Comic Blade
+80,Violet Evergarden,8.63,2,651,"['Drama', 'Fantasy']",Nismo našli revije
+81,Tongari Boushi no Atelier,8.63,Ni končana,159,['Fantasy'],Morning Two
+82,Mo Dao Zu Shi,8.63,Ni končana,1421,"['Action', 'Adventure', 'Boys Love', 'Mystery', 'Supernatural']",Kuaikan Manhua
+83,Golden Kamuy,8.63,31,150,"['Action', 'Adventure', 'Award Winning']",Young Jump
+84,Overlord,8.62,Ni končana,257,"['Action', 'Fantasy']",Nismo našli revije
+85,Blue Period,8.62,Ni končana,97,"['Award Winning', 'Drama']",Afternoon
+86,Pluto,8.62,8,102,"['Action', 'Award Winning', 'Mystery', 'Sci-Fi', 'Suspense']",Big Comic Original
+87,Shinyaku Toaru Majutsu no Index,8.62,23,1256,"['Action', 'Comedy', 'Fantasy', 'Sci-Fi', 'Supernatural']",Nismo našli revije
+88,Umineko no Naku Koro ni Chiru - Episode 7: Requiem of the Golden Witch,8.61,9,1474,"['Drama', 'Mystery', 'Supernatural', 'Suspense']",Shounen Gangan
+89,Koten-bu Series,8.61,Ni končana,1023,"['Adventure', 'Mystery']",Nismo našli revije
+90,Kusuriya no Hitorigoto,8.61,Ni končana,245,"['Drama', 'Mystery']",Big Gangan
+91,Mob Psycho 100,8.61,16,109,"['Action', 'Award Winning', 'Comedy', 'Supernatural']",MangaONE
+92,Ginga Eiyuu Densetsu,8.61,10,1989,"['Action', 'Adventure', 'Drama', 'Sci-Fi']",Nismo našli revije
+93,Banana Fish,8.60,19,286,"['Action', 'Adventure', 'Drama']",Betsucomi
+94,Kono Subarashii Sekai ni Shukufuku wo!,8.60,17,305,"['Adventure', 'Comedy', 'Fantasy']",Nismo našli revije
+95,"Umarekawattemo Mata, Watashi to Kekkon shitekuremasu ka",8.60,4,645,['Romance'],Gene pixiv
+96,19 Tian,8.60,Ni končana,2003,"['Boys Love', 'Comedy']",Nismo našli revije
+97,Skip to Loafer,8.59,Ni končana,447,"['Award Winning', 'Drama']",Afternoon
+98,Ao Ashi,8.59,Ni končana,573,"['Award Winning', 'Sports']",Big Comic Spirits
+99,Shigatsu wa Kimi no Uso,8.59,11,192,"['Award Winning', 'Drama', 'Romance']",Shounen Magazine (Monthly)
+100,Seishun Buta Yarou Series,8.59,Ni končana,678,"['Drama', 'Romance', 'Supernatural']",Nismo našli revije
